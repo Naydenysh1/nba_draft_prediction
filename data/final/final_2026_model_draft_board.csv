@@ -1,0 +1,75 @@
+model_rank,name,position,organization,predicted_group,ranked_model_group,draft_board_score,max_probability,prob_top_5,prob_picks_6_14,prob_picks_15_30,prob_second_round,prob_undrafted
+1,cameron boozer,PF,Duke,top_5,top_5,3.955,0.661,0.661,0.168,0.098,0.048,0.025
+2,caleb wilson,PF,North Carolina,top_5,top_5,3.463,0.531,0.531,0.19,0.158,0.081,0.04
+3,keaton wagler,PG,Illinois,top_5,top_5,3.408,0.458,0.458,0.305,0.134,0.07,0.033
+4,kingston flemings,PG,Houston,top_5,top_5,3.264,0.442,0.442,0.276,0.148,0.091,0.043
+5,allen graves,PF,Santa Clara,top_5,top_5,3.188,0.433,0.433,0.269,0.162,0.073,0.063
+6,anicet dybantsa,SF,BYU,top_5,picks_6_14,3.08,0.396,0.396,0.297,0.158,0.083,0.067
+7,darryn peterson,SG,Kansas,picks_6_14,picks_6_14,3.026,0.357,0.336,0.357,0.184,0.079,0.043
+8,koa peat,PF,Arizona,top_5,picks_6_14,2.879,0.326,0.326,0.308,0.23,0.078,0.058
+9,hannes steinbach,C,Washington,top_5,picks_6_14,2.844,0.323,0.323,0.305,0.219,0.092,0.061
+10,darius acuff,PG,Arkansas,picks_6_14,picks_6_14,2.78,0.402,0.271,0.402,0.15,0.112,0.064
+11,ebuka okorie,PG,Stanford,picks_6_14,picks_6_14,2.73,0.328,0.307,0.328,0.174,0.095,0.097
+12,amari allen,SF,Alabama,top_5,picks_6_14,2.705,0.349,0.349,0.204,0.238,0.132,0.077
+13,brayden burries,SG,Arizona,top_5,picks_6_14,2.669,0.294,0.294,0.27,0.257,0.12,0.058
+14,nathaniel ament,PF,Tennessee,picks_6_14,picks_6_14,2.662,0.335,0.271,0.335,0.219,0.1,0.075
+15,tyler tanner,PG,Vanderbilt,picks_6_14,picks_15_30,2.505,0.286,0.278,0.286,0.192,0.145,0.1
+16,morez johnson,PF,Michigan,picks_6_14,picks_15_30,2.468,0.284,0.242,0.284,0.275,0.126,0.072
+17,tounde yessoufou,SG,Baylor,picks_6_14,picks_15_30,2.36,0.299,0.216,0.299,0.284,0.107,0.095
+18,christopher cenac,PF,Houston,picks_15_30,picks_15_30,2.191,0.299,0.177,0.299,0.299,0.125,0.101
+19,christopher brown,PG,Louisville,picks_6_14,picks_15_30,2.183,0.366,0.157,0.366,0.23,0.133,0.114
+20,flory bidunga,C,Kansas,picks_15_30,picks_15_30,2.183,0.252,0.237,0.205,0.252,0.208,0.099
+21,christian anderson,PG,Texas Tech,picks_6_14,picks_15_30,2.163,0.246,0.229,0.246,0.208,0.189,0.128
+22,dailyn swain,SF,Texas,picks_15_30,picks_15_30,1.964,0.299,0.177,0.22,0.299,0.183,0.121
+23,malachi moreno,C,Kentucky,picks_6_14,picks_15_30,1.939,0.407,0.077,0.407,0.27,0.118,0.129
+24,labaron philon,PG,Alabama,picks_6_14,picks_15_30,1.899,0.285,0.154,0.285,0.219,0.193,0.149
+25,billy richmond,SF,Arkansas,picks_15_30,picks_15_30,1.812,0.311,0.135,0.232,0.311,0.197,0.125
+26,aday mara,C,Michigan,picks_6_14,picks_15_30,1.77,0.349,0.134,0.349,0.147,0.138,0.233
+27,jacob cofie,PF,USC,picks_15_30,picks_15_30,1.688,0.303,0.109,0.235,0.303,0.225,0.128
+28,meleek thomas,SG,Arkansas,picks_15_30,picks_15_30,1.667,0.331,0.081,0.276,0.331,0.166,0.146
+29,isaiah evans,SG,Duke,picks_15_30,picks_15_30,1.663,0.288,0.108,0.256,0.288,0.179,0.169
+30,zuby ejiofor,C,St. John's,picks_15_30,picks_15_30,1.642,0.312,0.131,0.174,0.312,0.255,0.129
+31,yaxel lendeborg,PF,Michigan,picks_6_14,second_round,1.561,0.258,0.114,0.258,0.2,0.228,0.199
+32,rueben chinyelu,C,Florida,second_round,second_round,1.336,0.32,0.129,0.153,0.188,0.32,0.21
+33,tarris reed,C,Connecticut,second_round,second_round,1.328,0.324,0.1,0.176,0.215,0.324,0.184
+34,matthew able,SG,N.C. State,picks_15_30,second_round,1.321,0.406,0.041,0.184,0.406,0.216,0.153
+35,henri veesaar,C,North Carolina,picks_15_30,second_round,1.311,0.266,0.075,0.219,0.266,0.213,0.227
+36,jeremy fears,PG,Michigan St.,second_round,second_round,1.288,0.298,0.108,0.188,0.176,0.298,0.23
+37,bruce thornton,PG,Ohio St.,second_round,second_round,1.181,0.326,0.059,0.173,0.259,0.326,0.183
+38,jayden quaintance,C,Kentucky,picks_15_30,second_round,1.142,0.302,0.061,0.173,0.302,0.219,0.245
+39,baba miller,PF,Cincinnati,second_round,second_round,1.1,0.304,0.101,0.111,0.239,0.304,0.246
+40,maliq brown,C,Duke,second_round,second_round,1.1,0.324,0.083,0.13,0.238,0.324,0.225
+41,joshua jefferson,PF,Iowa St.,second_round,second_round,1.095,0.335,0.107,0.115,0.197,0.335,0.247
+42,richie saunders,SG,BYU,second_round,second_round,1.026,0.362,0.014,0.156,0.311,0.362,0.157
+43,tobe awaka,C,Arizona,second_round,second_round,1.002,0.347,0.071,0.107,0.25,0.347,0.225
+44,trevon brazile,PF,Arkansas,second_round,second_round,0.998,0.333,0.072,0.122,0.231,0.333,0.242
+45,ugonna onyenso,C,Virginia,undrafted,second_round,0.965,0.313,0.066,0.193,0.152,0.276,0.313
+46,izaiyah nelson,C,South Florida,second_round,second_round,0.887,0.337,0.059,0.082,0.279,0.337,0.243
+47,cameron carr,SG,Baylor,undrafted,second_round,0.871,0.301,0.039,0.178,0.205,0.277,0.301
+48,dillon mitchell,PF,St. John's,second_round,second_round,0.831,0.382,0.034,0.106,0.251,0.382,0.226
+49,rafael castro,C,George Washington,second_round,second_round,0.778,0.314,0.048,0.088,0.267,0.314,0.284
+50,kylan boswell,PG,Illinois,undrafted,second_round,0.726,0.34,0.071,0.094,0.182,0.313,0.34
+51,jaden harris,SF,Kennesaw St.,second_round,second_round,0.715,0.366,0.038,0.119,0.185,0.366,0.292
+52,bennett stirtz,PG,Iowa,second_round,second_round,0.688,0.379,0.036,0.094,0.21,0.379,0.28
+53,milan momcilovic,PF,Iowa St.,undrafted,second_round,0.661,0.369,0.033,0.146,0.202,0.25,0.369
+54,keyshawn hall,SF,Auburn,second_round,second_round,0.66,0.418,0.016,0.097,0.218,0.418,0.25
+55,ja kobi gillespie,PG,Tennessee,second_round,second_round,0.648,0.389,0.044,0.059,0.225,0.389,0.283
+56,braden smith,PG,Purdue,second_round,second_round,0.642,0.368,0.06,0.059,0.196,0.368,0.316
+57,alex karaban,PF,Connecticut,second_round,second_round,0.61,0.367,0.036,0.096,0.183,0.367,0.318
+58,bryce hopkins,PF,St. John's,second_round,second_round,0.598,0.477,0.016,0.076,0.193,0.477,0.238
+59,nicholas boyd,PG,Wisconsin,second_round,second_round,0.579,0.396,0.022,0.08,0.213,0.396,0.289
+60,nick martinelli,PF,Northwestern,undrafted,second_round,0.553,0.368,0.031,0.124,0.155,0.322,0.368
+61,jaden bradley,PG,Arizona,second_round,undrafted,0.546,0.424,0.036,0.058,0.183,0.424,0.298
+62,felix okpara,C,Tennessee,undrafted,undrafted,0.529,0.343,0.033,0.074,0.21,0.34,0.343
+63,john blackwell,SG,Wisconsin,undrafted,undrafted,0.502,0.389,0.024,0.115,0.189,0.282,0.389
+64,otega oweh,SG,Kentucky,second_round,undrafted,0.498,0.437,0.021,0.068,0.178,0.437,0.297
+65,ryan conwell,SG,Louisville,second_round,undrafted,0.484,0.407,0.012,0.088,0.181,0.407,0.313
+66,trey kaufman renn,PF,Purdue,second_round,undrafted,0.47,0.373,0.025,0.073,0.188,0.373,0.341
+67,emanuel sharp,SG,Houston,undrafted,undrafted,0.386,0.378,0.008,0.09,0.192,0.332,0.378
+68,aaron nkrumah,SG,Tennessee St.,second_round,undrafted,0.372,0.391,0.034,0.061,0.136,0.391,0.379
+69,tobi lawal,PF,Virginia Tech,second_round,undrafted,0.368,0.415,0.018,0.05,0.175,0.415,0.342
+70,tyler nickel,SF,Vanderbilt,second_round,undrafted,0.343,0.408,0.014,0.057,0.168,0.408,0.353
+71,tyler bilodeau,PF,UCLA,undrafted,undrafted,0.296,0.458,0.026,0.078,0.172,0.266,0.458
+72,andrej stojakovic,SF,Illinois,undrafted,undrafted,0.254,0.41,0.014,0.054,0.172,0.35,0.41
+73,milos uzan,PG,Houston,undrafted,undrafted,0.249,0.416,0.041,0.035,0.103,0.404,0.416
+74,peter suder,SG,Miami OH,undrafted,undrafted,0.111,0.437,0.017,0.043,0.084,0.419,0.437

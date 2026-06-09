@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>2026 NBA Draft Prediction Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <div>
+        <p class="eyebrow">Static GitHub Pages dashboard</p>
+        <h1>2026 NBA Draft Prediction Dashboard</h1>
+        <p id="summary" class="summary">Loading dashboard data...</p>
+      </div>
+      <div class="status-box">
+        <span id="modeLabel">Loading</span>
+        <small id="generatedAt"></small>
+      </div>
+    </header>
+
+    <main>
+      <section class="notice" id="modeNote"></section>
+
+      <section>
+        <div class="section-heading">
+          <h2>Model vs ESPN Agreement</h2>
+        </div>
+        <div class="metrics-grid" id="metrics"></div>
+      </section>
+
+      <section>
+        <div class="section-heading">
+          <h2>Group Distribution</h2>
+        </div>
+        <div id="distributionCharts" class="chart-grid"></div>
+      </section>
+
+      <section>
+        <div class="section-heading">
+          <h2>Agreement and Confusion Matrices</h2>
+        </div>
+        <div id="matrices" class="matrix-grid"></div>
+      </section>
+
+      <section>
+        <div class="section-heading">
+          <h2>Largest Model vs ESPN Disagreements</h2>
+        </div>
+        <div class="table-wrap">
+          <table id="disagreementsTable"></table>
+        </div>
+      </section>
+
+      <section id="threeWaySection" class="hidden">
+        <div class="section-heading">
+          <h2>Actual vs Model vs ESPN</h2>
+        </div>
+        <div class="table-wrap">
+          <table id="threeWayTable"></table>
+        </div>
+      </section>
+
+      <section>
+        <div class="section-heading">
+          <h2>Top 60 Model Draft Board</h2>
+        </div>
+        <div class="table-wrap">
+          <table id="boardTable"></table>
+        </div>
+      </section>
+
+    </main>
+
+    <footer>
+      <p>Built from saved project outputs. No server runtime is required.</p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

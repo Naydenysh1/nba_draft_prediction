@@ -1,0 +1,2265 @@
+person_id,birth_date,birth_date_source,raw_display_first_last
+-1,,common_player_info_error:KeyError,
+199,1964-03-05,nba_api_commonplayerinfo,Reggie Williams
+2030,1977-12-30,nba_api_commonplayerinfo,Kenyon Martin
+2031,1979-11-21,nba_api_commonplayerinfo,Stromile Swift
+2032,1981-10-09,nba_api_commonplayerinfo,Darius Miles
+2033,1978-08-10,nba_api_commonplayerinfo,Marcus Fizer
+2034,1980-02-19,nba_api_commonplayerinfo,Mike Miller
+2035,1980-05-05,nba_api_commonplayerinfo,DerMarr Johnson
+2036,1979-07-16,nba_api_commonplayerinfo,Chris Mihm
+2037,1980-03-20,nba_api_commonplayerinfo,Jamal Crawford
+2038,1979-10-10,nba_api_commonplayerinfo,Joel Przybilla
+2039,1980-05-08,nba_api_commonplayerinfo,Keyon Dooling
+2040,1978-06-15,nba_api_commonplayerinfo,Jerome Moiso
+2041,1978-04-01,nba_api_commonplayerinfo,Etan Thomas
+2042,1977-04-27,nba_api_commonplayerinfo,Courtney Alexander
+2043,1977-09-07,nba_api_commonplayerinfo,Mateen Cleaves
+2044,1977-09-08,nba_api_commonplayerinfo,Jason Collier
+2045,1979-03-19,nba_api_commonplayerinfo,Hedo Turkoglu
+2046,1977-10-11,nba_api_commonplayerinfo,Desmond Mason
+2047,1980-04-13,nba_api_commonplayerinfo,Quentin Richardson
+2048,1978-05-21,nba_api_commonplayerinfo,Jamaal Magloire
+2049,1978-05-08,nba_api_commonplayerinfo,Speedy Claxton
+2050,1977-08-26,nba_api_commonplayerinfo,Morris Peterson
+2051,1980-08-26,nba_api_commonplayerinfo,Donnell Harvey
+2052,1981-04-03,nba_api_commonplayerinfo,DeShawn Stevenson
+2053,1980-07-02,nba_api_commonplayerinfo,Dalibor Bagaric
+2054,1979-06-10,nba_api_commonplayerinfo,Jake Tsakalidis
+2055,1975-06-16,nba_api_commonplayerinfo,Mamadou N'diaye
+2056,1979-10-02,nba_api_commonplayerinfo,Primoz Brezec
+2057,1978-02-21,nba_api_commonplayerinfo,Erick Barkley
+2058,1976-01-28,nba_api_commonplayerinfo,Mark Madsen
+2059,1976-07-11,nba_api_commonplayerinfo,Eduardo Najera
+2060,1978-12-10,nba_api_commonplayerinfo,Marko Jaric
+2061,1977-11-28,nba_api_commonplayerinfo,Dan Langhi
+2062,1978-02-12,nba_api_commonplayerinfo,A.J. Guyton
+2063,1977-11-01,nba_api_commonplayerinfo,Jake Voskuhl
+2064,1979-04-25,nba_api_commonplayerinfo,Khalid El-Amin
+2065,1976-04-15,nba_api_commonplayerinfo,Mike Smith
+2066,1978-03-18,nba_api_commonplayerinfo,Soumaila Samake
+2067,1978-05-14,nba_api_commonplayerinfo,Eddie House
+2068,1978-02-26,nba_api_commonplayerinfo,Lavor Postell
+2069,1976-09-09,nba_api_commonplayerinfo,Hanno Mottola
+2070,,common_player_info_error:KeyError,
+2071,1981-05-11,nba_api_commonplayerinfo,Olumide Oyedeji
+2072,1979-08-24,nba_api_commonplayerinfo,Michael Redd
+2073,1977-05-02,nba_api_commonplayerinfo,Brian Cardinal
+2074,1977-02-12,nba_api_commonplayerinfo,Jabari Smith
+2075,,common_player_info_error:KeyError,
+2076,,common_player_info_error:KeyError,
+2077,,common_player_info_error:KeyError,
+2078,1978-04-29,nba_api_commonplayerinfo,Jason Hart
+2079,1978-07-21,nba_api_commonplayerinfo,Kaniel Dickens
+2080,1978-03-29,nba_api_commonplayerinfo,Igor Rakocevic
+2081,1979-05-17,nba_api_commonplayerinfo,Ernest Brown
+2082,1977-04-19,nba_api_commonplayerinfo,Dan McClintock
+2083,,common_player_info_error:KeyError,
+2084,1978-05-09,nba_api_commonplayerinfo,Chris Porter
+2085,,common_player_info_error:KeyError,
+2086,,common_player_info_error:KeyError,
+2087,,common_player_info_error:KeyError,
+2090,,common_player_info_error:KeyError,
+2109,1978-08-16,nba_api_commonplayerinfo,Eddie Gill
+2110,,common_player_info_error:KeyError,
+2111,,common_player_info_error:KeyError,
+2121,1976-12-30,nba_api_commonplayerinfo,Terrance Roberson
+2124,1978-06-27,nba_api_commonplayerinfo,Malik Allen
+2198,1982-03-10,nba_api_commonplayerinfo,Kwame Brown
+2199,1982-10-02,nba_api_commonplayerinfo,Tyson Chandler
+2200,1980-07-06,nba_api_commonplayerinfo,Pau Gasol
+2201,1982-12-05,nba_api_commonplayerinfo,Eddy Curry
+2202,1981-01-20,nba_api_commonplayerinfo,Jason Richardson
+2203,1978-09-09,nba_api_commonplayerinfo,Shane Battier
+2204,1982-05-30,nba_api_commonplayerinfo,Eddie Griffin
+2205,1982-01-30,nba_api_commonplayerinfo,DeSagana Diop
+2206,1980-06-28,nba_api_commonplayerinfo,Rodney White
+2207,1981-06-29,nba_api_commonplayerinfo,Joe Johnson
+2208,1981-03-18,nba_api_commonplayerinfo,Kedrick Brown
+2209,1980-11-19,nba_api_commonplayerinfo,Vladimir Radmanovic
+2210,1980-06-21,nba_api_commonplayerinfo,Richard Jefferson
+2211,1980-05-02,nba_api_commonplayerinfo,Troy Murphy
+2212,1981-10-31,nba_api_commonplayerinfo,Steven Hunter
+2213,1979-03-10,nba_api_commonplayerinfo,Kirk Haston
+2214,1979-04-18,nba_api_commonplayerinfo,Michael Bradley
+2215,1978-12-02,nba_api_commonplayerinfo,Jason Collins
+2216,1981-07-16,nba_api_commonplayerinfo,Zach Randolph
+2217,1979-11-27,nba_api_commonplayerinfo,Brendan Haywood
+2218,1981-03-23,nba_api_commonplayerinfo,Joseph Forte
+2219,1979-02-13,nba_api_commonplayerinfo,Jeryl Sasser
+2220,1980-06-16,nba_api_commonplayerinfo,Brandon Armstrong
+2221,1980-04-15,nba_api_commonplayerinfo,Raul Lopez
+2222,1982-07-23,nba_api_commonplayerinfo,Gerald Wallace
+2223,1980-05-10,nba_api_commonplayerinfo,Samuel Dalembert
+2224,1978-02-28,nba_api_commonplayerinfo,Jamaal Tinsley
+2225,1982-05-17,nba_api_commonplayerinfo,Tony Parker
+2226,1978-07-20,nba_api_commonplayerinfo,Will Solomon
+2228,1981-05-29,nba_api_commonplayerinfo,Alton Ford
+2230,1978-11-08,nba_api_commonplayerinfo,Maurice Evans
+2238,1981-04-01,nba_api_commonplayerinfo,Antonis Fotsis
+2239,1979-03-04,nba_api_commonplayerinfo,Trenton Hassell
+2240,1982-01-06,nba_api_commonplayerinfo,Gilbert Arenas
+2241,1982-01-28,nba_api_commonplayerinfo,Omar Cook
+2242,1979-01-11,nba_api_commonplayerinfo,Terence Morris
+2243,1978-03-18,nba_api_commonplayerinfo,Brian Scalabrine
+2244,1979-07-11,nba_api_commonplayerinfo,Jeff Trepagnier
+2245,1979-06-28,nba_api_commonplayerinfo,Damone Brown
+2246,1979-05-26,nba_api_commonplayerinfo,Mehmet Okur
+2247,,common_player_info_error:KeyError,
+2248,1979-06-12,nba_api_commonplayerinfo,Earl Watson
+2249,1980-11-19,nba_api_commonplayerinfo,Jamison Brewer
+2250,1980-06-02,nba_api_commonplayerinfo,Bobby Simmons
+2251,,common_player_info_error:KeyError,
+2252,,common_player_info_error:KeyError,
+2253,1979-09-03,nba_api_commonplayerinfo,Sean Lampley
+2254,1978-06-21,nba_api_commonplayerinfo,Loren Woods
+2255,,common_player_info_error:KeyError,
+2256,1978-02-01,nba_api_commonplayerinfo,Ken Johnson
+2257,1978-05-20,nba_api_commonplayerinfo,Ruben Boumtje-Boumtje
+2259,1979-01-12,nba_api_commonplayerinfo,Andre Hutson
+2260,1978-12-02,nba_api_commonplayerinfo,Jarron Collins
+2261,1981-04-10,nba_api_commonplayerinfo,Kenny Satterfield
+2262,,common_player_info_error:KeyError,
+2263,,common_player_info_error:KeyError,
+2264,1978-09-09,nba_api_commonplayerinfo,Alvin Jones
+2265,,common_player_info_error:KeyError,
+2294,1979-03-12,nba_api_commonplayerinfo,Charlie Bell
+2369,1977-07-24,nba_api_commonplayerinfo,Norman Richardson
+2386,,common_player_info_error:KeyError,
+2397,1980-09-12,nba_api_commonplayerinfo,Yao Ming
+2398,1981-09-10,nba_api_commonplayerinfo,Jay Williams
+2399,1980-09-15,nba_api_commonplayerinfo,Mike Dunleavy
+2400,1981-09-24,nba_api_commonplayerinfo,Drew Gooden
+2401,1983-04-14,nba_api_commonplayerinfo,Nikoloz Tskitishvili
+2402,1983-02-04,nba_api_commonplayerinfo,Dajuan Wagner
+2403,1982-09-13,nba_api_commonplayerinfo,Nene
+2404,1982-09-03,nba_api_commonplayerinfo,Chris Wilcox
+2405,1982-11-16,nba_api_commonplayerinfo,Amar'e Stoudemire
+2406,1980-03-13,nba_api_commonplayerinfo,Caron Butler
+2407,1981-11-25,nba_api_commonplayerinfo,Jared Jeffries
+2408,1978-05-02,nba_api_commonplayerinfo,Melvin Ely
+2409,1980-12-22,nba_api_commonplayerinfo,Marcus Haislip
+2410,1979-03-11,nba_api_commonplayerinfo,Fred Jones
+2411,1980-07-03,nba_api_commonplayerinfo,Bostjan Nachbar
+2412,1980-01-27,nba_api_commonplayerinfo,Jiri Welsch
+2413,1978-10-09,nba_api_commonplayerinfo,Juan Dixon
+2414,1980-09-13,nba_api_commonplayerinfo,Curtis Borchardt
+2415,1979-07-24,nba_api_commonplayerinfo,Ryan Humphrey
+2416,1980-10-30,nba_api_commonplayerinfo,Kareem Rush
+2417,1981-02-16,nba_api_commonplayerinfo,Qyntel Woods
+2418,1981-03-19,nba_api_commonplayerinfo,Casey Jacobsen
+2419,1980-02-28,nba_api_commonplayerinfo,Tayshaun Prince
+2420,1983-07-25,nba_api_commonplayerinfo,Nenad Krstic
+2421,1980-02-25,nba_api_commonplayerinfo,Frank Williams
+2422,1979-12-12,nba_api_commonplayerinfo,John Salmons
+2423,1980-02-13,nba_api_commonplayerinfo,Chris Jefferies
+2424,1978-09-16,nba_api_commonplayerinfo,Dan Dickau
+2425,1980-03-29,nba_api_commonplayerinfo,Robert Archibald
+2426,,common_player_info_error:KeyError,
+2427,1980-09-10,nba_api_commonplayerinfo,Roger Mason Jr.
+2428,1981-03-21,nba_api_commonplayerinfo,Vincent Yarbrough
+2429,1978-02-02,nba_api_commonplayerinfo,Dan Gadzuric
+2430,1981-11-20,nba_api_commonplayerinfo,Carlos Boozer
+2431,1980-06-23,nba_api_commonplayerinfo,David Andersen
+2432,1981-06-08,nba_api_commonplayerinfo,Tito Maddox
+2433,,common_player_info_error:KeyError,
+2434,1980-06-13,nba_api_commonplayerinfo,Juan Carlos Navarro
+2435,1980-04-05,nba_api_commonplayerinfo,Mario Kasun
+2436,1979-07-29,nba_api_commonplayerinfo,Flip Murray
+2437,1979-01-27,nba_api_commonplayerinfo,Lonny Baxter
+2438,,common_player_info_error:KeyError,
+2439,,common_player_info_error:KeyError,
+2440,1980-03-09,nba_api_commonplayerinfo,Matt Barnes
+2441,1983-05-15,nba_api_commonplayerinfo,Jamal Sampson
+2442,1979-03-01,nba_api_commonplayerinfo,Chris Owens
+2443,1978-02-14,nba_api_commonplayerinfo,Darius Songaila
+2444,,common_player_info_error:KeyError,
+2445,,common_player_info_error:KeyError,
+2446,1979-05-23,nba_api_commonplayerinfo,Rasual Butler
+2447,1980-04-02,nba_api_commonplayerinfo,Tamar Slay
+2448,,common_player_info_error:KeyError,
+2449,1980-04-30,nba_api_commonplayerinfo,Luis Scola
+2450,1979-08-08,nba_api_commonplayerinfo,Randy Holcomb
+2451,1979-03-05,nba_api_commonplayerinfo,Corsley Edwards
+2452,1980-09-19,nba_api_commonplayerinfo,J.R. Bremer
+2453,1976-05-21,nba_api_commonplayerinfo,Predrag Savovic
+2457,1979-10-22,nba_api_commonplayerinfo,Jannero Pargo
+2458,,common_player_info_error:KeyError,
+2465,,common_player_info_error:KeyError,
+2470,1981-06-01,nba_api_commonplayerinfo,Smush Parker
+2486,1979-07-28,nba_api_commonplayerinfo,Maurice Baker
+2495,,common_player_info_error:KeyError,
+2501,1980-05-18,nba_api_commonplayerinfo,Reggie Evans
+2508,,common_player_info_error:KeyError,
+2525,1980-11-13,nba_api_commonplayerinfo,Milos Vujanic
+2526,,common_player_info_error:KeyError,
+2544,1984-12-30,nba_api_commonplayerinfo,LeBron James
+2545,1985-06-20,nba_api_commonplayerinfo,Darko Milicic
+2546,1984-05-29,nba_api_commonplayerinfo,Carmelo Anthony
+2547,1984-03-24,nba_api_commonplayerinfo,Chris Bosh
+2548,1982-01-17,nba_api_commonplayerinfo,Dwyane Wade
+2549,1982-04-28,nba_api_commonplayerinfo,Chris Kaman
+2550,1981-01-02,nba_api_commonplayerinfo,Kirk Hinrich
+2551,1983-03-24,nba_api_commonplayerinfo,T.J. Ford
+2552,1982-10-25,nba_api_commonplayerinfo,Michael Sweetney
+2553,1981-08-09,nba_api_commonplayerinfo,Jarvis Hayes
+2554,1982-02-07,nba_api_commonplayerinfo,Mickael Pietrus
+2555,1980-10-26,nba_api_commonplayerinfo,Nick Collison
+2556,1981-11-19,nba_api_commonplayerinfo,Marcus Banks
+2557,1981-02-13,nba_api_commonplayerinfo,Luke Ridnour
+2558,1981-01-07,nba_api_commonplayerinfo,Reece Gaines
+2559,1980-11-10,nba_api_commonplayerinfo,Troy Bell
+2560,1981-05-21,nba_api_commonplayerinfo,Zarko Cabarkapa
+2561,1980-08-29,nba_api_commonplayerinfo,David West
+2562,1983-11-15,nba_api_commonplayerinfo,Sasha Pavlovic
+2563,1980-12-27,nba_api_commonplayerinfo,Dahntay Jones
+2564,1982-04-16,nba_api_commonplayerinfo,Boris Diaw
+2565,1982-09-12,nba_api_commonplayerinfo,Zoran Planinic
+2566,1984-09-18,nba_api_commonplayerinfo,Travis Outlaw
+2567,1980-12-04,nba_api_commonplayerinfo,Brian Cook
+2568,1982-08-29,nba_api_commonplayerinfo,Carlos Delfino
+2569,1984-06-18,nba_api_commonplayerinfo,Ndudi Ebi
+2570,1984-11-10,nba_api_commonplayerinfo,Kendrick Perkins
+2571,1982-11-28,nba_api_commonplayerinfo,Leandro Barbosa
+2572,1980-04-28,nba_api_commonplayerinfo,Josh Howard
+2573,1985-02-05,nba_api_commonplayerinfo,Maciej Lampe
+2574,1981-02-02,nba_api_commonplayerinfo,Jason Kapono
+2575,1980-03-28,nba_api_commonplayerinfo,Luke Walton
+2577,,common_player_info_error:KeyError,
+2578,,common_player_info_error:KeyError,
+2579,,common_player_info_error:KeyError,
+2580,1978-04-15,nba_api_commonplayerinfo,Travis Hansen
+2581,1980-02-26,nba_api_commonplayerinfo,Steve Blake
+2582,1983-01-30,nba_api_commonplayerinfo,Slavko Vranes
+2583,1981-12-02,nba_api_commonplayerinfo,Derrick Zimmerman
+2584,1981-07-28,nba_api_commonplayerinfo,Willie Green
+2585,1984-02-10,nba_api_commonplayerinfo,Zaza Pachulia
+2586,1980-05-12,nba_api_commonplayerinfo,Keith Bogans
+2587,,common_player_info_error:KeyError,
+2588,1980-04-05,nba_api_commonplayerinfo,Matt Bonner
+2589,1981-05-19,nba_api_commonplayerinfo,Sani Becirovic
+2590,1982-12-19,nba_api_commonplayerinfo,Mo Williams
+2591,1983-10-17,nba_api_commonplayerinfo,James Lang
+2592,1980-10-04,nba_api_commonplayerinfo,James Jones
+2593,,common_player_info_error:KeyError,
+2594,1981-03-17,nba_api_commonplayerinfo,Kyle Korver
+2595,,common_player_info_error:KeyError,
+2596,,common_player_info_error:KeyError,
+2597,,common_player_info_error:KeyError,
+2598,,common_player_info_error:KeyError,
+2599,1980-11-24,nba_api_commonplayerinfo,Brandon Hunter
+2600,,common_player_info_error:KeyError,
+2601,1981-08-26,nba_api_commonplayerinfo,Andreas Glyniadakis
+2602,1980-05-17,nba_api_commonplayerinfo,Jerome Beasley
+2604,1980-10-03,nba_api_commonplayerinfo,Theron Smith
+2605,1981-01-07,nba_api_commonplayerinfo,Marquis Daniels
+2606,,common_player_info_error:KeyError,
+2617,1980-06-09,nba_api_commonplayerinfo,Udonis Haslem
+2618,,common_player_info_error:KeyError,
+2632,1980-11-23,nba_api_commonplayerinfo,Kirk Penney
+2637,1978-07-03,nba_api_commonplayerinfo,Alex Scales
+2639,1979-07-08,nba_api_commonplayerinfo,Britton Johnsen
+2648,1981-01-26,nba_api_commonplayerinfo,Ronald Dupree
+2651,,common_player_info_error:KeyError,
+2658,,common_player_info_error:KeyError,
+2677,,common_player_info_error:KeyError,
+2679,1980-08-28,nba_api_commonplayerinfo,Matt Carroll
+2688,1981-12-16,nba_api_commonplayerinfo,Brandin Knight
+2694,1983-01-25,nba_api_commonplayerinfo,Josh Powell
+2696,1979-10-23,nba_api_commonplayerinfo,Lynn Greer
+2730,1985-12-08,nba_api_commonplayerinfo,Dwight Howard
+2731,1982-09-28,nba_api_commonplayerinfo,Emeka Okafor
+2732,1983-04-04,nba_api_commonplayerinfo,Ben Gordon
+2733,1985-09-11,nba_api_commonplayerinfo,Shaun Livingston
+2734,1983-02-27,nba_api_commonplayerinfo,Devin Harris
+2735,1983-06-20,nba_api_commonplayerinfo,Josh Childress
+2736,1985-04-16,nba_api_commonplayerinfo,Luol Deng
+2737,1980-08-12,nba_api_commonplayerinfo,Rafael Araujo
+2738,1984-01-28,nba_api_commonplayerinfo,Andre Iguodala
+2739,1981-11-06,nba_api_commonplayerinfo,Luke Jackson
+2740,1986-04-02,nba_api_commonplayerinfo,Andris Biedrins
+2741,1985-12-03,nba_api_commonplayerinfo,Robert Swift
+2742,1985-06-09,nba_api_commonplayerinfo,Sebastian Telfair
+2743,1985-02-06,nba_api_commonplayerinfo,Kris Humphries
+2744,1985-01-04,nba_api_commonplayerinfo,Al Jefferson
+2745,1983-06-05,nba_api_commonplayerinfo,Kirk Snyder
+2746,1985-12-05,nba_api_commonplayerinfo,Josh Smith
+2747,1985-09-09,nba_api_commonplayerinfo,JR Smith
+2748,1985-12-02,nba_api_commonplayerinfo,Dorell Wright
+2749,1982-02-09,nba_api_commonplayerinfo,Jameer Nelson
+2750,1985-01-15,nba_api_commonplayerinfo,Pavel Podkolzin
+2751,1982-08-03,nba_api_commonplayerinfo,Viktor Khryapa
+2752,1983-04-15,nba_api_commonplayerinfo,Sergei Monia
+2753,1983-07-26,nba_api_commonplayerinfo,Delonte West
+2754,1982-01-11,nba_api_commonplayerinfo,Tony Allen
+2755,1983-02-01,nba_api_commonplayerinfo,Kevin Martin
+2756,1984-03-08,nba_api_commonplayerinfo,Sasha Vujacic
+2757,1982-07-05,nba_api_commonplayerinfo,Beno Udrih
+2758,1982-08-15,nba_api_commonplayerinfo,David Harrison
+2760,1982-09-28,nba_api_commonplayerinfo,Anderson Varejao
+2761,1981-06-06,nba_api_commonplayerinfo,Jackson Vroman
+2762,1985-05-23,nba_api_commonplayerinfo,Peter John Ramos
+2763,1980-11-10,nba_api_commonplayerinfo,Lionel Chalmers
+2764,1983-11-27,nba_api_commonplayerinfo,Donta Smith
+2765,1982-08-27,nba_api_commonplayerinfo,Andre Emmett
+2766,1980-02-25,nba_api_commonplayerinfo,Antonio Burks
+2767,1981-12-20,nba_api_commonplayerinfo,Royal Ivey
+2768,1982-08-31,nba_api_commonplayerinfo,Chris Duhon
+2769,,common_player_info_error:KeyError,
+2770,1982-01-16,nba_api_commonplayerinfo,Justin Reed
+2771,,common_player_info_error:KeyError,
+2772,1985-06-30,nba_api_commonplayerinfo,Trevor Ariza
+2773,,common_player_info_error:KeyError,
+2774,1980-12-26,nba_api_commonplayerinfo,Bernard Robinson
+2775,1985-08-04,nba_api_commonplayerinfo,Ha Ha
+2776,1981-11-22,nba_api_commonplayerinfo,Pape Sow
+2777,,common_player_info_error:KeyError,
+2778,,common_player_info_error:KeyError,
+2779,1982-08-02,nba_api_commonplayerinfo,Vassilis Spanoulis
+2780,1982-12-08,nba_api_commonplayerinfo,Christian Drejer
+2781,,common_player_info_error:KeyError,
+2782,1981-10-02,nba_api_commonplayerinfo,Matt Freije
+2783,,common_player_info_error:KeyError,
+2784,1981-04-11,nba_api_commonplayerinfo,Luis Flores
+2785,,common_player_info_error:KeyError,
+2786,,common_player_info_error:KeyError,
+2787,1982-03-17,nba_api_commonplayerinfo,Rashad Wright
+2798,1974-10-14,nba_api_commonplayerinfo,Horace Jenkins
+2800,1979-10-22,nba_api_commonplayerinfo,Tony Bobbitt
+2801,,common_player_info_error:KeyError,
+2807,,common_player_info_error:KeyError,
+2810,1981-05-12,nba_api_commonplayerinfo,Andre Brown
+2822,,common_player_info_error:KeyError,
+2823,1981-07-31,nba_api_commonplayerinfo,John Edwards
+2824,1981-10-07,nba_api_commonplayerinfo,Desmon Farmer
+2845,1982-04-01,nba_api_commonplayerinfo,Erik Daniels
+2857,1982-02-21,nba_api_commonplayerinfo,Andre Barrett
+2863,1980-01-11,nba_api_commonplayerinfo,Damien Wilkins
+2865,,common_player_info_error:KeyError,
+2866,1985-03-10,nba_api_commonplayerinfo,Jackie Butler
+2876,1982-04-08,nba_api_commonplayerinfo,Jared Reiner
+12000,,common_player_info_error:KeyError,
+12001,,common_player_info_error:KeyError,
+12002,,common_player_info_error:KeyError,
+12003,,common_player_info_error:KeyError,
+12004,,common_player_info_error:KeyError,
+12005,,common_player_info_error:KeyError,
+12006,,common_player_info_error:KeyError,
+12007,,common_player_info_error:KeyError,
+12009,,common_player_info_error:KeyError,
+12010,,common_player_info_error:KeyError,
+12011,,common_player_info_error:KeyError,
+12012,,common_player_info_error:KeyError,
+12014,,common_player_info_error:KeyError,
+12016,,common_player_info_error:KeyError,
+12017,,common_player_info_error:KeyError,
+12018,,common_player_info_error:KeyError,
+12019,,common_player_info_error:KeyError,
+12020,,common_player_info_error:KeyError,
+12021,,common_player_info_error:KeyError,
+12022,,common_player_info_error:KeyError,
+12023,,common_player_info_error:KeyError,
+12024,,common_player_info_error:KeyError,
+12025,,common_player_info_error:KeyError,
+12026,,common_player_info_error:KeyError,
+12027,,common_player_info_error:KeyError,
+12028,,common_player_info_error:KeyError,
+12030,,common_player_info_error:KeyError,
+12031,,common_player_info_error:KeyError,
+12032,,common_player_info_error:KeyError,
+12033,,common_player_info_error:KeyError,
+12034,,common_player_info_error:KeyError,
+12035,,common_player_info_error:KeyError,
+12036,,common_player_info_error:KeyError,
+12037,,common_player_info_error:KeyError,
+12038,,common_player_info_error:KeyError,
+12039,,common_player_info_error:KeyError,
+12040,,common_player_info_error:KeyError,
+12042,,common_player_info_error:KeyError,
+12043,,common_player_info_error:KeyError,
+12044,,common_player_info_error:KeyError,
+12045,,common_player_info_error:KeyError,
+12046,,common_player_info_error:KeyError,
+12050,,common_player_info_error:KeyError,
+12051,,common_player_info_error:KeyError,
+12052,,common_player_info_error:KeyError,
+12054,,common_player_info_error:KeyError,
+12055,,common_player_info_error:KeyError,
+12056,,common_player_info_error:KeyError,
+12057,,common_player_info_error:KeyError,
+12058,,common_player_info_error:KeyError,
+12059,,common_player_info_error:KeyError,
+12061,,common_player_info_error:KeyError,
+12062,,common_player_info_error:KeyError,
+12063,,common_player_info_error:KeyError,
+12064,,common_player_info_error:KeyError,
+12065,,common_player_info_error:KeyError,
+12066,,common_player_info_error:KeyError,
+12068,,common_player_info_error:KeyError,
+12069,,common_player_info_error:KeyError,
+12070,,common_player_info_error:KeyError,
+12072,,common_player_info_error:KeyError,
+12073,,common_player_info_error:KeyError,
+12074,,common_player_info_error:KeyError,
+12075,,common_player_info_error:KeyError,
+12076,,common_player_info_error:KeyError,
+12077,,common_player_info_error:KeyError,
+12078,,common_player_info_error:KeyError,
+12079,,common_player_info_error:KeyError,
+12080,,common_player_info_error:KeyError,
+12081,,common_player_info_error:KeyError,
+12082,,common_player_info_error:KeyError,
+12083,,common_player_info_error:KeyError,
+12084,,common_player_info_error:KeyError,
+12085,,common_player_info_error:KeyError,
+12086,,common_player_info_error:KeyError,
+12087,,common_player_info_error:KeyError,
+12088,,common_player_info_error:KeyError,
+12089,,common_player_info_error:KeyError,
+12090,,common_player_info_error:KeyError,
+12091,,common_player_info_error:KeyError,
+12092,,common_player_info_error:KeyError,
+12093,,common_player_info_error:KeyError,
+12094,,common_player_info_error:KeyError,
+12095,,common_player_info_error:KeyError,
+12096,,common_player_info_error:KeyError,
+12097,,common_player_info_error:KeyError,
+12098,,common_player_info_error:KeyError,
+12099,,common_player_info_error:KeyError,
+12101,,common_player_info_error:KeyError,
+12102,,common_player_info_error:KeyError,
+12103,,common_player_info_error:KeyError,
+12104,,common_player_info_error:KeyError,
+12105,,common_player_info_error:KeyError,
+12106,,common_player_info_error:KeyError,
+12107,,common_player_info_error:KeyError,
+12108,,common_player_info_error:KeyError,
+12109,,common_player_info_error:KeyError,
+12110,,common_player_info_error:KeyError,
+12111,,common_player_info_error:KeyError,
+12112,,common_player_info_error:KeyError,
+12113,,common_player_info_error:KeyError,
+12114,,common_player_info_error:KeyError,
+12115,,common_player_info_error:KeyError,
+12116,,common_player_info_error:KeyError,
+12117,,common_player_info_error:KeyError,
+12118,,common_player_info_error:KeyError,
+12119,,common_player_info_error:KeyError,
+12120,,common_player_info_error:KeyError,
+12121,,common_player_info_error:KeyError,
+12122,,common_player_info_error:KeyError,
+12123,,common_player_info_error:KeyError,
+12124,,common_player_info_error:KeyError,
+12125,,common_player_info_error:KeyError,
+12126,,common_player_info_error:KeyError,
+12127,,common_player_info_error:KeyError,
+12128,,common_player_info_error:KeyError,
+12129,,common_player_info_error:KeyError,
+12130,,common_player_info_error:KeyError,
+12131,,common_player_info_error:KeyError,
+12132,,common_player_info_error:KeyError,
+12133,,common_player_info_error:KeyError,
+12134,,common_player_info_error:KeyError,
+12135,,common_player_info_error:KeyError,
+12136,,common_player_info_error:KeyError,
+12137,,common_player_info_error:KeyError,
+12138,,common_player_info_error:KeyError,
+12139,,common_player_info_error:KeyError,
+12140,,common_player_info_error:KeyError,
+12141,,common_player_info_error:KeyError,
+12142,,common_player_info_error:KeyError,
+12143,,common_player_info_error:KeyError,
+12144,,common_player_info_error:KeyError,
+12145,,common_player_info_error:KeyError,
+12146,,common_player_info_error:KeyError,
+12147,,common_player_info_error:KeyError,
+12148,,common_player_info_error:KeyError,
+12149,,common_player_info_error:KeyError,
+12150,,common_player_info_error:KeyError,
+12151,,common_player_info_error:KeyError,
+12152,,common_player_info_error:KeyError,
+12153,,common_player_info_error:KeyError,
+12154,,common_player_info_error:KeyError,
+12156,,common_player_info_error:KeyError,
+12157,,common_player_info_error:KeyError,
+12158,,common_player_info_error:KeyError,
+12159,,common_player_info_error:KeyError,
+12160,,common_player_info_error:KeyError,
+12161,,common_player_info_error:KeyError,
+12162,,common_player_info_error:KeyError,
+12164,,common_player_info_error:KeyError,
+12165,,common_player_info_error:KeyError,
+12166,,common_player_info_error:KeyError,
+12168,,common_player_info_error:KeyError,
+12169,,common_player_info_error:KeyError,
+12170,,common_player_info_error:KeyError,
+12171,,common_player_info_error:KeyError,
+12172,,common_player_info_error:KeyError,
+12173,,common_player_info_error:KeyError,
+12174,,common_player_info_error:KeyError,
+12175,,common_player_info_error:KeyError,
+12176,,common_player_info_error:KeyError,
+12178,,common_player_info_error:KeyError,
+12179,,common_player_info_error:KeyError,
+12180,,common_player_info_error:KeyError,
+12181,,common_player_info_error:KeyError,
+12182,,common_player_info_error:KeyError,
+12184,,common_player_info_error:KeyError,
+12185,,common_player_info_error:KeyError,
+12186,,common_player_info_error:KeyError,
+12187,,common_player_info_error:KeyError,
+12188,,common_player_info_error:KeyError,
+12189,,common_player_info_error:KeyError,
+12190,,common_player_info_error:KeyError,
+12191,,common_player_info_error:KeyError,
+12192,,common_player_info_error:KeyError,
+12193,,common_player_info_error:KeyError,
+12194,,common_player_info_error:KeyError,
+12195,,common_player_info_error:KeyError,
+12196,,common_player_info_error:KeyError,
+12199,,common_player_info_error:KeyError,
+12200,,common_player_info_error:KeyError,
+12201,,common_player_info_error:KeyError,
+12203,,common_player_info_error:KeyError,
+12204,,common_player_info_error:KeyError,
+12205,,common_player_info_error:KeyError,
+12206,,common_player_info_error:KeyError,
+12207,,common_player_info_error:KeyError,
+12208,,common_player_info_error:KeyError,
+12209,,common_player_info_error:KeyError,
+12210,,common_player_info_error:KeyError,
+12211,,common_player_info_error:KeyError,
+12212,,common_player_info_error:KeyError,
+12214,,common_player_info_error:KeyError,
+12215,,common_player_info_error:KeyError,
+12216,,common_player_info_error:KeyError,
+12217,,common_player_info_error:KeyError,
+12218,,common_player_info_error:KeyError,
+12219,,common_player_info_error:KeyError,
+12220,,common_player_info_error:KeyError,
+12221,,common_player_info_error:KeyError,
+12222,,common_player_info_error:KeyError,
+12223,,common_player_info_error:KeyError,
+12225,,common_player_info_error:KeyError,
+12226,,common_player_info_error:KeyError,
+12227,,common_player_info_error:KeyError,
+12228,,common_player_info_error:KeyError,
+12230,,common_player_info_error:KeyError,
+12233,,common_player_info_error:KeyError,
+12234,,common_player_info_error:KeyError,
+12235,,common_player_info_error:KeyError,
+12236,,common_player_info_error:KeyError,
+12237,,common_player_info_error:KeyError,
+12239,,common_player_info_error:KeyError,
+12240,,common_player_info_error:KeyError,
+12241,,common_player_info_error:KeyError,
+12242,,common_player_info_error:KeyError,
+12243,,common_player_info_error:KeyError,
+12244,,common_player_info_error:KeyError,
+12246,,common_player_info_error:KeyError,
+12247,,common_player_info_error:KeyError,
+12248,,common_player_info_error:KeyError,
+12249,,common_player_info_error:KeyError,
+12252,,common_player_info_error:KeyError,
+12254,,common_player_info_error:KeyError,
+12255,,common_player_info_error:KeyError,
+12256,,common_player_info_error:KeyError,
+12257,,common_player_info_error:KeyError,
+12258,,common_player_info_error:KeyError,
+12259,,common_player_info_error:KeyError,
+12260,,common_player_info_error:KeyError,
+12262,,common_player_info_error:KeyError,
+12263,,common_player_info_error:KeyError,
+12264,,common_player_info_error:KeyError,
+12266,,common_player_info_error:KeyError,
+12267,,common_player_info_error:KeyError,
+12268,,common_player_info_error:KeyError,
+12269,,common_player_info_error:KeyError,
+12270,,common_player_info_error:KeyError,
+12271,,common_player_info_error:KeyError,
+12272,,common_player_info_error:KeyError,
+12273,,common_player_info_error:KeyError,
+12275,,common_player_info_error:KeyError,
+12278,,common_player_info_error:KeyError,
+12279,,common_player_info_error:KeyError,
+12283,,common_player_info_error:KeyError,
+12284,,common_player_info_error:KeyError,
+12286,,common_player_info_error:KeyError,
+12287,,common_player_info_error:KeyError,
+12288,,common_player_info_error:KeyError,
+12289,,common_player_info_error:KeyError,
+12290,,common_player_info_error:KeyError,
+12291,,common_player_info_error:KeyError,
+12292,,common_player_info_error:KeyError,
+12293,,common_player_info_error:KeyError,
+12295,,common_player_info_error:KeyError,
+12296,,common_player_info_error:KeyError,
+12297,,common_player_info_error:KeyError,
+12316,,common_player_info_error:KeyError,
+12317,,common_player_info_error:KeyError,
+12330,,common_player_info_error:KeyError,
+12334,,common_player_info_error:KeyError,
+12341,,common_player_info_error:KeyError,
+12343,,common_player_info_error:KeyError,
+12406,,common_player_info_error:KeyError,
+12407,,common_player_info_error:KeyError,
+12409,,common_player_info_error:KeyError,
+12415,,common_player_info_error:KeyError,
+12417,,common_player_info_error:KeyError,
+12428,,common_player_info_error:KeyError,
+12430,,common_player_info_error:KeyError,
+12436,,common_player_info_error:KeyError,
+12441,,common_player_info_error:KeyError,
+12442,,common_player_info_error:KeyError,
+12445,,common_player_info_error:KeyError,
+12458,,common_player_info_error:KeyError,
+12467,,common_player_info_error:KeyError,
+12507,,common_player_info_error:KeyError,
+12524,,common_player_info_error:KeyError,
+23033,,common_player_info_error:KeyError,
+40046,,common_player_info_error:KeyError,
+101106,1984-11-28,nba_api_commonplayerinfo,Andrew Bogut
+101107,1986-06-19,nba_api_commonplayerinfo,Marvin Williams
+101108,1985-05-06,nba_api_commonplayerinfo,Chris Paul
+101109,1984-06-26,nba_api_commonplayerinfo,Raymond Felton
+101110,1986-12-04,nba_api_commonplayerinfo,Martell Webster
+101111,1984-08-24,nba_api_commonplayerinfo,Charlie Villanueva
+101112,1983-05-17,nba_api_commonplayerinfo,Channing Frye
+101113,1983-09-11,nba_api_commonplayerinfo,Ike Diogu
+101114,1984-06-26,nba_api_commonplayerinfo,Deron Williams
+101115,1987-10-27,nba_api_commonplayerinfo,Andrew Bynum
+101116,,common_player_info_error:KeyError,
+101117,1987-05-07,nba_api_commonplayerinfo,Yaroslav Korolev
+101118,1984-04-04,nba_api_commonplayerinfo,Sean May
+101119,1984-09-25,nba_api_commonplayerinfo,Rashad McCants
+101120,1984-02-06,nba_api_commonplayerinfo,Antoine Wright
+101121,1982-06-11,nba_api_commonplayerinfo,Joey Graham
+101122,1983-04-20,nba_api_commonplayerinfo,Danny Granger
+101123,1986-01-26,nba_api_commonplayerinfo,Gerald Green
+101124,1982-07-08,nba_api_commonplayerinfo,Hakim Warrick
+101125,1983-11-18,nba_api_commonplayerinfo,Julius Hodge
+101126,1984-05-31,nba_api_commonplayerinfo,Nate Robinson
+101127,1983-10-28,nba_api_commonplayerinfo,Jarrett Jack
+101128,1981-12-31,nba_api_commonplayerinfo,Francisco Garcia
+101129,1982-11-26,nba_api_commonplayerinfo,Luther Head
+101130,1986-01-27,nba_api_commonplayerinfo,Johan Petro
+101131,1983-02-18,nba_api_commonplayerinfo,Jason Maxiell
+101132,1985-01-03,nba_api_commonplayerinfo,Linas Kleiza
+101133,1986-11-05,nba_api_commonplayerinfo,Ian Mahinmi
+101134,1983-03-09,nba_api_commonplayerinfo,Wayne Simien
+101135,1983-04-29,nba_api_commonplayerinfo,David Lee
+101136,1982-10-11,nba_api_commonplayerinfo,Salim Stoudamire
+101137,1983-03-26,nba_api_commonplayerinfo,Daniel Ewing
+101138,1985-04-30,nba_api_commonplayerinfo,Brandon Bass
+101139,1987-03-18,nba_api_commonplayerinfo,CJ Miles
+101140,,common_player_info_error:KeyError,
+101141,1987-05-15,nba_api_commonplayerinfo,Ersan Ilyasova
+101142,1983-01-13,nba_api_commonplayerinfo,Ronny Turiaf
+101143,1982-03-01,nba_api_commonplayerinfo,Travis Diener
+101144,1985-07-21,nba_api_commonplayerinfo,Von Wafer
+101145,1985-10-26,nba_api_commonplayerinfo,Monta Ellis
+101146,1984-12-05,nba_api_commonplayerinfo,Roko Ukic
+101147,1985-03-10,nba_api_commonplayerinfo,Chris Taft
+101148,1984-06-02,nba_api_commonplayerinfo,Mile Ilic
+101149,1986-03-12,nba_api_commonplayerinfo,Martynas Andriuskevicius
+101150,1986-10-27,nba_api_commonplayerinfo,Lou Williams
+101151,1984-02-21,nba_api_commonplayerinfo,Erazem Lorbek
+101152,1984-07-01,nba_api_commonplayerinfo,Bracey Wright
+101153,1983-05-22,nba_api_commonplayerinfo,Mickael Gelabale
+101154,1986-08-22,nba_api_commonplayerinfo,Andray Blatche
+101155,1982-09-01,nba_api_commonplayerinfo,Ryan Gomes
+101156,1982-04-16,nba_api_commonplayerinfo,Robert Whaley
+101157,,common_player_info_error:KeyError,
+101158,1982-02-04,nba_api_commonplayerinfo,Orien Greene
+101159,1983-03-23,nba_api_commonplayerinfo,Dijon Thompson
+101160,1982-10-20,nba_api_commonplayerinfo,Lawrence Roberts
+101161,1987-05-01,nba_api_commonplayerinfo,Amir Johnson
+101162,1984-02-17,nba_api_commonplayerinfo,Marcin Gortat
+101164,1987-04-16,nba_api_commonplayerinfo,Cenk Akyol
+101165,1983-01-21,nba_api_commonplayerinfo,Alex Acker
+101166,1983-05-14,nba_api_commonplayerinfo,Uros Slokar
+101179,1983-06-21,nba_api_commonplayerinfo,Ronnie Price
+101184,1982-03-22,nba_api_commonplayerinfo,Deng Gai
+101185,1982-02-20,nba_api_commonplayerinfo,Rawle Marshall
+101187,1982-10-16,nba_api_commonplayerinfo,Alan Anderson
+101188,1983-02-15,nba_api_commonplayerinfo,Eddie Basden
+101194,1983-02-14,nba_api_commonplayerinfo,Anthony Roberson
+101195,1981-12-31,nba_api_commonplayerinfo,Luke Schenscher
+101198,1983-01-04,nba_api_commonplayerinfo,Will Bynum
+101204,1983-06-09,nba_api_commonplayerinfo,Dwayne Jones
+101213,1982-01-09,nba_api_commonplayerinfo,Sharrod Ford
+101214,1983-02-19,nba_api_commonplayerinfo,Jawad Williams
+101215,1982-12-08,nba_api_commonplayerinfo,Will Conroy
+101219,1979-04-15,nba_api_commonplayerinfo,Anthony Grundy
+101223,1983-04-13,nba_api_commonplayerinfo,Aaron Miles
+101224,,common_player_info_error:KeyError,
+101232,1983-01-15,nba_api_commonplayerinfo,Roger Powell
+101236,1983-06-11,nba_api_commonplayerinfo,Chuck Hayes
+101247,1983-09-15,nba_api_commonplayerinfo,Keith Langford
+101248,,common_player_info_error:KeyError,
+101249,1982-11-21,nba_api_commonplayerinfo,John Lucas III
+101252,,common_player_info_error:KeyError,
+200081,1980-06-13,nba_api_commonplayerinfo,Jamario Moon
+200555,,common_player_info_error:KeyError,
+200745,1985-10-26,nba_api_commonplayerinfo,Andrea Bargnani
+200746,1985-07-19,nba_api_commonplayerinfo,LaMarcus Aldridge
+200747,1984-07-19,nba_api_commonplayerinfo,Adam Morrison
+200748,1986-08-17,nba_api_commonplayerinfo,Tyrus Thomas
+200749,1983-10-21,nba_api_commonplayerinfo,Shelden Williams
+200750,1984-07-23,nba_api_commonplayerinfo,Brandon Roy
+200751,1983-09-24,nba_api_commonplayerinfo,Randy Foye
+200752,1986-08-17,nba_api_commonplayerinfo,Rudy Gay
+200753,1986-06-20,nba_api_commonplayerinfo,Patrick O'Bryant
+200754,1986-05-12,nba_api_commonplayerinfo,Mouhamed Sene
+200755,1984-06-24,nba_api_commonplayerinfo,JJ Redick
+200756,1984-11-23,nba_api_commonplayerinfo,Hilton Armstrong
+200757,1984-05-02,nba_api_commonplayerinfo,Thabo Sefolosha
+200758,1985-03-20,nba_api_commonplayerinfo,Ronnie Brewer
+200759,1986-01-03,nba_api_commonplayerinfo,Cedric Simmons
+200760,1984-04-05,nba_api_commonplayerinfo,Rodney Carney
+200761,1986-02-16,nba_api_commonplayerinfo,Shawne Williams
+200762,1985-12-08,nba_api_commonplayerinfo,Oleksiy Pecherov
+200763,1984-05-16,nba_api_commonplayerinfo,Quincy Douby
+200764,1984-07-14,nba_api_commonplayerinfo,Renaldo Balkman
+200765,1986-02-22,nba_api_commonplayerinfo,Rajon Rondo
+200766,1985-12-03,nba_api_commonplayerinfo,Marcus Williams
+200767,1984-11-21,nba_api_commonplayerinfo,Josh Boone
+200768,1986-03-25,nba_api_commonplayerinfo,Kyle Lowry
+200769,1985-11-29,nba_api_commonplayerinfo,Shannon Brown
+200770,1986-11-30,nba_api_commonplayerinfo,Jordan Farmar
+200771,1986-06-12,nba_api_commonplayerinfo,Sergio Rodriguez
+200772,1984-02-09,nba_api_commonplayerinfo,Maurice Ager
+200776,1984-08-04,nba_api_commonplayerinfo,Mardy Collins
+200777,1987-02-07,nba_api_commonplayerinfo,Joel Freeland
+200778,1982-10-21,nba_api_commonplayerinfo,James White
+200779,1983-06-13,nba_api_commonplayerinfo,Steve Novak
+200780,1984-07-16,nba_api_commonplayerinfo,Solomon Jones
+200781,1984-07-21,nba_api_commonplayerinfo,Paul Davis
+200782,1985-05-05,nba_api_commonplayerinfo,P.J. Tucker
+200783,1983-11-10,nba_api_commonplayerinfo,Craig Smith
+200784,1984-01-09,nba_api_commonplayerinfo,Bobby Jones
+200785,1985-02-19,nba_api_commonplayerinfo,Kosta Perovic
+200786,1984-02-27,nba_api_commonplayerinfo,David Noel
+200787,,common_player_info_error:KeyError,
+200788,1984-02-27,nba_api_commonplayerinfo,James Augustine
+200789,1986-02-27,nba_api_commonplayerinfo,Daniel Gibson
+200790,1984-05-31,nba_api_commonplayerinfo,Marcus Vinicius
+200791,,common_player_info_error:KeyError,
+200792,1983-02-08,nba_api_commonplayerinfo,Alexander Johnson
+200793,1984-08-17,nba_api_commonplayerinfo,Dee Brown
+200794,1985-02-10,nba_api_commonplayerinfo,Paul Millsap
+200795,,common_player_info_error:KeyError,
+200796,1984-01-22,nba_api_commonplayerinfo,Leon Powe
+200797,1984-10-10,nba_api_commonplayerinfo,Ryan Hollins
+200798,1984-10-22,nba_api_commonplayerinfo,Cheikh Samb
+200799,1985-03-04,nba_api_commonplayerinfo,Guillermo Diaz
+200800,1984-01-24,nba_api_commonplayerinfo,Yotam Halperin
+200801,1984-06-20,nba_api_commonplayerinfo,Hassan Adams
+200802,,common_player_info_error:KeyError,
+200803,,common_player_info_error:KeyError,
+200804,,common_player_info_error:KeyError,
+200805,,common_player_info_error:KeyError,
+200806,1985-12-26,nba_api_commonplayerinfo,Damir Markota
+200807,1983-09-08,nba_api_commonplayerinfo,Will Blalock
+200809,1983-09-27,nba_api_commonplayerinfo,Chris Quinn
+200810,1984-06-17,nba_api_commonplayerinfo,Allan Ray
+200811,1982-12-07,nba_api_commonplayerinfo,Lou Amundson
+200812,,common_player_info_error:KeyError,
+200814,1984-03-21,nba_api_commonplayerinfo,Tarence Kinsey
+200818,1984-05-12,nba_api_commonplayerinfo,Justin Williams
+200819,,common_player_info_error:KeyError,
+200822,1983-09-07,nba_api_commonplayerinfo,Pops Mensah-Bonsu
+200827,1985-12-06,nba_api_commonplayerinfo,Darius Washington
+200829,1982-04-26,nba_api_commonplayerinfo,Ivan McFarlin
+200840,1984-05-27,nba_api_commonplayerinfo,Chris McCray
+200847,1984-09-15,nba_api_commonplayerinfo,Brandon Bowman
+200848,1983-04-12,nba_api_commonplayerinfo,Steven Smith
+200859,,common_player_info_error:KeyError,
+200969,,common_player_info_error:KeyError,
+200995,,common_player_info_error:KeyError,
+201015,,common_player_info_error:KeyError,
+201019,,common_player_info_error:KeyError,
+201028,,common_player_info_error:KeyError,
+201141,1988-01-22,nba_api_commonplayerinfo,Greg Oden
+201142,1988-09-29,nba_api_commonplayerinfo,Kevin Durant
+201143,1986-06-03,nba_api_commonplayerinfo,Al Horford
+201144,1987-10-11,nba_api_commonplayerinfo,Mike Conley
+201145,1986-08-28,nba_api_commonplayerinfo,Jeff Green
+201146,1987-10-27,nba_api_commonplayerinfo,Yi Jianlian
+201147,1986-03-05,nba_api_commonplayerinfo,Corey Brewer
+201148,1987-10-05,nba_api_commonplayerinfo,Brandan Wright
+201149,1985-02-25,nba_api_commonplayerinfo,Joakim Noah
+201150,1988-04-28,nba_api_commonplayerinfo,Spencer Hawes
+201151,1985-01-25,nba_api_commonplayerinfo,Acie Law
+201152,1988-06-21,nba_api_commonplayerinfo,Thaddeus Young
+201153,1987-05-20,nba_api_commonplayerinfo,Julian Wright
+201154,1983-12-07,nba_api_commonplayerinfo,Al Thornton
+201155,1986-04-21,nba_api_commonplayerinfo,Rodney Stuckey
+201156,1985-06-01,nba_api_commonplayerinfo,Nick Young
+201157,1986-09-13,nba_api_commonplayerinfo,Sean Williams
+201158,1986-03-25,nba_api_commonplayerinfo,Marco Belinelli
+201159,1987-12-31,nba_api_commonplayerinfo,Javaris Crittenton
+201160,1986-03-02,nba_api_commonplayerinfo,Jason Smith
+201161,1987-04-28,nba_api_commonplayerinfo,Daequan Cook
+201162,1985-07-10,nba_api_commonplayerinfo,Jared Dudley
+201163,1987-05-10,nba_api_commonplayerinfo,Wilson Chandler
+201164,1985-04-04,nba_api_commonplayerinfo,Rudy Fernandez
+201165,1985-02-02,nba_api_commonplayerinfo,Morris Almond
+201166,1985-01-14,nba_api_commonplayerinfo,Aaron Brooks
+201167,1985-10-15,nba_api_commonplayerinfo,Arron Afflalo
+201168,1985-01-01,nba_api_commonplayerinfo,Tiago Splitter
+201169,1984-02-11,nba_api_commonplayerinfo,Alando Tucker
+201170,,common_player_info_error:KeyError,
+201171,1983-09-19,nba_api_commonplayerinfo,Carl Landry
+201172,1986-04-19,nba_api_commonplayerinfo,Gabe Pruitt
+201173,1986-11-18,nba_api_commonplayerinfo,Marcus Williams
+201174,1985-06-17,nba_api_commonplayerinfo,Nick Fazekas
+201175,1986-01-01,nba_api_commonplayerinfo,Glen Davis
+201176,1984-11-15,nba_api_commonplayerinfo,Jermareo Davidson
+201177,1987-02-28,nba_api_commonplayerinfo,Josh McRoberts
+201178,1986-12-24,nba_api_commonplayerinfo,Kyrylo Fesenko
+201179,,common_player_info_error:KeyError,
+201180,1985-11-06,nba_api_commonplayerinfo,Sun Sun
+201181,1984-12-25,nba_api_commonplayerinfo,Chris Richard
+201182,1984-04-25,nba_api_commonplayerinfo,Derrick Byars
+201183,,common_player_info_error:KeyError,
+201184,,common_player_info_error:KeyError,
+201185,,common_player_info_error:KeyError,
+201186,1982-12-17,nba_api_commonplayerinfo,Stephane Lasme
+201187,1985-10-20,nba_api_commonplayerinfo,Dominic McGuire
+201188,1985-01-29,nba_api_commonplayerinfo,Marc Gasol
+201189,1984-12-07,nba_api_commonplayerinfo,Aaron Gray
+201190,,common_player_info_error:KeyError,
+201191,1986-01-07,nba_api_commonplayerinfo,JamesOn Curry
+201192,1986-11-28,nba_api_commonplayerinfo,Taurean Green
+201193,1984-09-04,nba_api_commonplayerinfo,Demetris Nichols
+201194,1985-02-18,nba_api_commonplayerinfo,Brad Newley
+201195,1984-10-01,nba_api_commonplayerinfo,Herbert Hill
+201196,1986-04-11,nba_api_commonplayerinfo,Ramon Sessions
+201197,,common_player_info_error:KeyError,
+201198,,common_player_info_error:KeyError,
+201199,1985-06-15,nba_api_commonplayerinfo,DJ Strawberry
+201200,,common_player_info_error:KeyError,
+201201,,common_player_info_error:KeyError,
+201203,1984-08-18,nba_api_commonplayerinfo,Mustafa Shakur
+201207,1983-06-08,nba_api_commonplayerinfo,Coby Karl
+201208,1984-11-08,nba_api_commonplayerinfo,Darryl Watkins
+201225,,common_player_info_error:KeyError,
+201228,1984-04-17,nba_api_commonplayerinfo,C.J. Watson
+201229,1985-06-01,nba_api_commonplayerinfo,Anthony Tolliver
+201234,1984-08-30,nba_api_commonplayerinfo,Trey Johnson
+201249,,common_player_info_error:KeyError,
+201318,,common_player_info_error:KeyError,
+201324,,common_player_info_error:KeyError,
+201383,,common_player_info_error:KeyError,
+201446,1986-01-21,nba_api_commonplayerinfo,Mike Taylor
+201469,,common_player_info_error:KeyError,
+201563,1989-01-09,nba_api_commonplayerinfo,Michael Beasley
+201564,1987-11-05,nba_api_commonplayerinfo,O.J. Mayo
+201565,1988-10-04,nba_api_commonplayerinfo,Derrick Rose
+201566,1988-11-12,nba_api_commonplayerinfo,Russell Westbrook
+201567,1988-09-07,nba_api_commonplayerinfo,Kevin Love
+201568,1988-08-08,nba_api_commonplayerinfo,Danilo Gallinari
+201569,1988-12-25,nba_api_commonplayerinfo,Eric Gordon
+201570,1986-12-26,nba_api_commonplayerinfo,Joe Alexander
+201571,1987-11-10,nba_api_commonplayerinfo,D.J. Augustin
+201572,1988-04-01,nba_api_commonplayerinfo,Brook Lopez
+201573,1988-08-20,nba_api_commonplayerinfo,Jerryd Bayless
+201574,1986-07-21,nba_api_commonplayerinfo,Jason Thompson
+201575,1985-07-07,nba_api_commonplayerinfo,Brandon Rush
+201576,1989-07-15,nba_api_commonplayerinfo,Anthony Randolph
+201577,1988-04-01,nba_api_commonplayerinfo,Robin Lopez
+201578,1987-08-04,nba_api_commonplayerinfo,Marreese Speights
+201579,1986-12-11,nba_api_commonplayerinfo,Roy Hibbert
+201580,1988-01-19,nba_api_commonplayerinfo,JaVale McGee
+201581,1988-09-04,nba_api_commonplayerinfo,JJ Hickson
+201582,1988-05-06,nba_api_commonplayerinfo,Alexis Ajinca
+201583,1988-05-06,nba_api_commonplayerinfo,Ryan Anderson
+201584,1985-10-03,nba_api_commonplayerinfo,Courtney Lee
+201585,1989-02-24,nba_api_commonplayerinfo,Kosta Koufos
+201586,1989-09-18,nba_api_commonplayerinfo,Serge Ibaka
+201587,1988-12-14,nba_api_commonplayerinfo,Nicolas Batum
+201588,1986-05-04,nba_api_commonplayerinfo,George Hill
+201589,1988-03-25,nba_api_commonplayerinfo,Darrell Arthur
+201590,1988-02-21,nba_api_commonplayerinfo,Donte Greene
+201591,1986-08-31,nba_api_commonplayerinfo,DJ White
+201592,1985-02-13,nba_api_commonplayerinfo,J.R. Giddens
+201593,1986-01-03,nba_api_commonplayerinfo,Nikola Pekovic
+201594,1986-07-18,nba_api_commonplayerinfo,Walter Sharpe
+201595,1983-12-16,nba_api_commonplayerinfo,Joey Dorsey
+201596,1986-05-19,nba_api_commonplayerinfo,Mario Chalmers
+201599,1988-07-21,nba_api_commonplayerinfo,DeAndre Jordan
+201600,1986-07-04,nba_api_commonplayerinfo,Omer Asik
+201601,1986-09-09,nba_api_commonplayerinfo,Luc Mbah a Moute
+201602,1986-02-18,nba_api_commonplayerinfo,Kyle Weaver
+201603,1986-07-08,nba_api_commonplayerinfo,Sonny Weems
+201604,1987-01-08,nba_api_commonplayerinfo,Chris Douglas-Roberts
+201605,1986-10-10,nba_api_commonplayerinfo,Nathan Jawai
+201606,1985-09-06,nba_api_commonplayerinfo,Sean Singletary
+201607,1984-05-20,nba_api_commonplayerinfo,Patrick Ewing
+201608,1987-02-17,nba_api_commonplayerinfo,Ante Tomic
+201609,1986-05-06,nba_api_commonplayerinfo,Goran Dragic
+201610,,common_player_info_error:KeyError,
+201611,1987-10-09,nba_api_commonplayerinfo,Henry Walker
+201612,1987-02-23,nba_api_commonplayerinfo,Malik Hairston
+201613,,common_player_info_error:KeyError,
+201614,,common_player_info_error:KeyError,
+201615,,common_player_info_error:KeyError,
+201616,1985-11-07,nba_api_commonplayerinfo,Darnell Jackson
+201617,,common_player_info_error:KeyError,
+201618,,common_player_info_error:KeyError,
+201619,1985-05-08,nba_api_commonplayerinfo,Sasha Kaun
+201620,,common_player_info_error:KeyError,
+201621,1986-06-17,nba_api_commonplayerinfo,Joe Crawford
+201622,,common_player_info_error:KeyError,
+201623,1986-07-28,nba_api_commonplayerinfo,Semih Erden
+201624,,common_player_info_error:KeyError,
+201628,1984-09-24,nba_api_commonplayerinfo,Bobby Brown
+201629,1986-05-28,nba_api_commonplayerinfo,Othello Hunter
+201634,1985-11-02,nba_api_commonplayerinfo,DeMarcus Nelson
+201651,,common_player_info_error:KeyError,
+201781,,common_player_info_error:KeyError,
+201812,,common_player_info_error:KeyError,
+201814,1985-02-25,nba_api_commonplayerinfo,Gary Forbes
+201848,,common_player_info_error:KeyError,
+201858,1984-11-20,nba_api_commonplayerinfo,Cartier Martin
+201863,,common_player_info_error:KeyError,
+201868,,common_player_info_error:KeyError,
+201872,,common_player_info_error:KeyError,
+201933,1989-03-16,nba_api_commonplayerinfo,Blake Griffin
+201934,1987-02-16,nba_api_commonplayerinfo,Hasheem Thabeet
+201935,1989-08-26,nba_api_commonplayerinfo,James Harden
+201936,1989-09-19,nba_api_commonplayerinfo,Tyreke Evans
+201937,1990-10-21,nba_api_commonplayerinfo,Ricky Rubio
+201938,1989-02-06,nba_api_commonplayerinfo,Jonny Flynn
+201939,1988-03-14,nba_api_commonplayerinfo,Stephen Curry
+201941,1987-07-27,nba_api_commonplayerinfo,Jordan Hill
+201942,1989-08-07,nba_api_commonplayerinfo,DeMar DeRozan
+201943,1989-09-23,nba_api_commonplayerinfo,Brandon Jennings
+201944,1987-06-28,nba_api_commonplayerinfo,Terrence Williams
+201945,1987-12-09,nba_api_commonplayerinfo,Gerald Henderson
+201946,1985-11-03,nba_api_commonplayerinfo,Tyler Hansbrough
+201947,1988-01-17,nba_api_commonplayerinfo,Earl Clark
+201948,1988-06-05,nba_api_commonplayerinfo,Austin Daye
+201949,1987-02-20,nba_api_commonplayerinfo,James Johnson
+201950,1990-06-12,nba_api_commonplayerinfo,Jrue Holiday
+201951,1987-11-03,nba_api_commonplayerinfo,Ty Lawson
+201952,1988-06-10,nba_api_commonplayerinfo,Jeff Teague
+201953,1987-06-11,nba_api_commonplayerinfo,Eric Maynor
+201954,1987-08-23,nba_api_commonplayerinfo,Darren Collison
+201956,1988-06-22,nba_api_commonplayerinfo,Omri Casspi
+201957,1989-02-14,nba_api_commonplayerinfo,Byron Mullens
+201958,1988-02-24,nba_api_commonplayerinfo,Rodrigue Beaubois
+201959,1985-06-24,nba_api_commonplayerinfo,Taj Gibson
+201960,1986-07-27,nba_api_commonplayerinfo,DeMarre Carroll
+201961,1987-11-29,nba_api_commonplayerinfo,Wayne Ellington
+201962,1986-03-16,nba_api_commonplayerinfo,Toney Douglas
+201963,1989-06-22,nba_api_commonplayerinfo,Christian Eyenga
+201964,1988-08-30,nba_api_commonplayerinfo,Victor Claver
+201965,1987-04-29,nba_api_commonplayerinfo,Jeff Ayres
+201966,1986-12-08,nba_api_commonplayerinfo,Jermaine Taylor
+201967,1987-04-22,nba_api_commonplayerinfo,Dante Cunningham
+201968,1987-11-15,nba_api_commonplayerinfo,Sergio Llull
+201969,1988-01-24,nba_api_commonplayerinfo,DaJuan Summers
+201970,1985-06-01,nba_api_commonplayerinfo,Sam Young
+201971,1989-04-22,nba_api_commonplayerinfo,DeJuan Blair
+201972,1987-03-20,nba_api_commonplayerinfo,Jon Brockman
+201973,1987-03-02,nba_api_commonplayerinfo,Jonas Jerebko
+201974,1987-09-08,nba_api_commonplayerinfo,Derrick Brown
+201975,1987-08-21,nba_api_commonplayerinfo,Jodie Meeks
+201976,1988-07-12,nba_api_commonplayerinfo,Patrick Beverley
+201977,1987-06-05,nba_api_commonplayerinfo,Marcus Thornton
+201978,1988-05-22,nba_api_commonplayerinfo,Chase Budinger
+201979,1989-02-07,nba_api_commonplayerinfo,Nick Calathes
+201980,1987-06-22,nba_api_commonplayerinfo,Danny Green
+201981,1986-04-18,nba_api_commonplayerinfo,Taylor Griffin
+201982,,common_player_info_error:KeyError,
+201983,,common_player_info_error:KeyError,
+201984,,common_player_info_error:KeyError,
+201985,1986-10-07,nba_api_commonplayerinfo,AJ Price
+201986,1987-06-23,nba_api_commonplayerinfo,Nando De Colo
+201987,1985-03-03,nba_api_commonplayerinfo,Robert Vaden
+201988,1988-08-11,nba_api_commonplayerinfo,Patty Mills
+201989,,common_player_info_error:KeyError,
+201990,,common_player_info_error:KeyError,
+201991,1984-08-07,nba_api_commonplayerinfo,Lester Hudson
+201992,,common_player_info_error:KeyError,
+201993,,common_player_info_error:KeyError,
+201994,,common_player_info_error:KeyError,
+202124,,common_player_info_error:KeyError,
+202151,,common_player_info_error:KeyError,
+202160,,common_player_info_error:KeyError,
+202322,1990-09-06,nba_api_commonplayerinfo,John Wall
+202323,1988-10-27,nba_api_commonplayerinfo,Evan Turner
+202324,1991-07-15,nba_api_commonplayerinfo,Derrick Favors
+202325,1987-07-11,nba_api_commonplayerinfo,Wesley Johnson
+202326,1990-08-13,nba_api_commonplayerinfo,DeMarcus Cousins
+202327,1987-05-20,nba_api_commonplayerinfo,Ekpe Udoh
+202328,1990-06-04,nba_api_commonplayerinfo,Greg Monroe
+202329,1990-09-21,nba_api_commonplayerinfo,Al-Farouq Aminu
+202330,1990-03-23,nba_api_commonplayerinfo,Gordon Hayward
+202331,1990-05-02,nba_api_commonplayerinfo,Paul George
+202332,1988-10-31,nba_api_commonplayerinfo,Cole Aldrich
+202333,1991-03-15,nba_api_commonplayerinfo,Xavier Henry
+202334,1989-06-05,nba_api_commonplayerinfo,Ed Davis
+202335,1989-03-14,nba_api_commonplayerinfo,Patrick Patterson
+202336,1988-11-21,nba_api_commonplayerinfo,Larry Sanders
+202337,1989-06-20,nba_api_commonplayerinfo,Luke Babbitt
+202338,1989-12-07,nba_api_commonplayerinfo,Kevin Seraphin
+202339,1989-12-09,nba_api_commonplayerinfo,Eric Bledsoe
+202340,1990-11-26,nba_api_commonplayerinfo,Avery Bradley
+202341,1989-03-25,nba_api_commonplayerinfo,James Anderson
+202342,1987-10-09,nba_api_commonplayerinfo,Craig Brackins
+202343,1989-06-20,nba_api_commonplayerinfo,Elliot Williams
+202344,1987-11-25,nba_api_commonplayerinfo,Trevor Booker
+202345,1987-10-07,nba_api_commonplayerinfo,Damion James
+202346,1988-10-15,nba_api_commonplayerinfo,Dominique Jones
+202347,1988-03-10,nba_api_commonplayerinfo,Quincy Pondexter
+202348,1988-10-23,nba_api_commonplayerinfo,Jordan Crawford
+202349,1987-01-16,nba_api_commonplayerinfo,Greivis Vasquez
+202350,1990-08-06,nba_api_commonplayerinfo,Daniel Orton
+202351,1986-11-26,nba_api_commonplayerinfo,Lazar Hayward
+202353,1989-11-02,nba_api_commonplayerinfo,Tibor Pleiss
+202354,1988-03-02,nba_api_commonplayerinfo,Dexter Pittman
+202355,1989-06-13,nba_api_commonplayerinfo,Hassan Whiteside
+202356,1989-02-23,nba_api_commonplayerinfo,Armon Johnson
+202357,1988-05-09,nba_api_commonplayerinfo,Nemanja Bjelica
+202358,1990-03-07,nba_api_commonplayerinfo,Terrico White
+202359,1987-09-29,nba_api_commonplayerinfo,Darington Hobson
+202360,1986-11-02,nba_api_commonplayerinfo,Andy Rautins
+202361,1988-06-27,nba_api_commonplayerinfo,Landry Fields
+202362,1990-09-05,nba_api_commonplayerinfo,Lance Stephenson
+202363,1988-03-01,nba_api_commonplayerinfo,Jarvis Varnado
+202364,1988-01-25,nba_api_commonplayerinfo,Da'Sean Butler
+202365,1989-10-28,nba_api_commonplayerinfo,Devin Ebanks
+202366,1986-09-29,nba_api_commonplayerinfo,Jerome Jordan
+202370,,common_player_info_error:KeyError,
+202371,1988-11-07,nba_api_commonplayerinfo,Gani Lawal
+202372,,common_player_info_error:KeyError,
+202373,,common_player_info_error:KeyError,
+202374,1988-03-21,nba_api_commonplayerinfo,Solomon Alabi
+202375,1986-02-23,nba_api_commonplayerinfo,Magnum Rolle
+202376,1988-01-02,nba_api_commonplayerinfo,Luke Harangody
+202377,1988-04-05,nba_api_commonplayerinfo,Pape Sy
+202378,1989-10-22,nba_api_commonplayerinfo,Willie Warren
+202379,1987-10-24,nba_api_commonplayerinfo,Jeremy Evans
+202380,1987-01-12,nba_api_commonplayerinfo,Hamady Ndiaye
+202382,1988-05-04,nba_api_commonplayerinfo,Derrick Caracter
+202383,,common_player_info_error:KeyError,
+202384,,common_player_info_error:KeyError,
+202385,1986-10-30,nba_api_commonplayerinfo,Ryan Reid
+202395,1987-03-18,nba_api_commonplayerinfo,Sherron Collins
+202399,1986-02-10,nba_api_commonplayerinfo,Jeff Adrien
+202412,1989-09-21,nba_api_commonplayerinfo,Manny Harris
+202624,,common_player_info_error:KeyError,
+202681,1992-03-23,nba_api_commonplayerinfo,Kyrie Irving
+202682,1991-05-25,nba_api_commonplayerinfo,Derrick Williams
+202683,1992-05-20,nba_api_commonplayerinfo,Enes Freedom
+202684,1991-03-13,nba_api_commonplayerinfo,Tristan Thompson
+202685,1992-05-06,nba_api_commonplayerinfo,Jonas Valančiūnas
+202686,1990-04-24,nba_api_commonplayerinfo,Jan Vesely
+202687,1992-08-28,nba_api_commonplayerinfo,Bismack Biyombo
+202688,1991-12-02,nba_api_commonplayerinfo,Brandon Knight
+202689,1990-05-08,nba_api_commonplayerinfo,Kemba Walker
+202690,1989-02-25,nba_api_commonplayerinfo,Jimmer Fredette
+202691,1990-02-08,nba_api_commonplayerinfo,Klay Thompson
+202692,1991-07-20,nba_api_commonplayerinfo,Alec Burks
+202693,1989-09-02,nba_api_commonplayerinfo,Markieff Morris
+202694,1989-09-02,nba_api_commonplayerinfo,Marcus Morris Sr.
+202695,1991-06-29,nba_api_commonplayerinfo,Kawhi Leonard
+202696,1990-10-24,nba_api_commonplayerinfo,Nikola Vučević
+202697,1990-06-26,nba_api_commonplayerinfo,Iman Shumpert
+202698,1989-11-21,nba_api_commonplayerinfo,Chris Singleton
+202699,1992-07-15,nba_api_commonplayerinfo,Tobias Harris
+202700,1990-09-20,nba_api_commonplayerinfo,Donatas Motiejunas
+202701,1988-07-25,nba_api_commonplayerinfo,Nolan Smith
+202702,1989-11-19,nba_api_commonplayerinfo,Kenneth Faried
+202703,1991-02-11,nba_api_commonplayerinfo,Nikola Mirotic
+202704,1990-04-16,nba_api_commonplayerinfo,Reggie Jackson
+202705,1989-01-26,nba_api_commonplayerinfo,MarShon Brooks
+202706,1990-10-06,nba_api_commonplayerinfo,Jordan Hamilton
+202707,1989-02-08,nba_api_commonplayerinfo,JaJuan Johnson
+202708,1988-10-13,nba_api_commonplayerinfo,Norris Cole
+202709,1991-08-20,nba_api_commonplayerinfo,Cory Joseph
+202710,1989-09-14,nba_api_commonplayerinfo,Jimmy Butler III
+202711,1989-04-18,nba_api_commonplayerinfo,Bojan Bogdanović
+202712,1989-08-30,nba_api_commonplayerinfo,Justin Harper
+202713,1988-05-04,nba_api_commonplayerinfo,Kyle Singler
+202714,1990-04-22,nba_api_commonplayerinfo,Shelvin Mack
+202715,1990-07-15,nba_api_commonplayerinfo,Tyler Honeycutt
+202716,1990-10-11,nba_api_commonplayerinfo,Jordan Williams
+202717,1990-05-29,nba_api_commonplayerinfo,Trey Thompkins
+202718,1988-10-25,nba_api_commonplayerinfo,Chandler Parsons
+202719,1991-06-21,nba_api_commonplayerinfo,Jeremy Tyler
+202720,1989-05-14,nba_api_commonplayerinfo,Jon Leuer
+202721,1991-01-03,nba_api_commonplayerinfo,Darius Morris
+202722,1992-11-12,nba_api_commonplayerinfo,Dāvis Bertāns
+202723,1990-05-22,nba_api_commonplayerinfo,Malcolm Lee
+202724,1989-02-28,nba_api_commonplayerinfo,Charles Jenkins
+202725,1989-02-12,nba_api_commonplayerinfo,Josh Harrellson
+202726,1988-12-07,nba_api_commonplayerinfo,Andrew Goudelock
+202727,1990-03-29,nba_api_commonplayerinfo,Travis Leslie
+202728,1988-08-13,nba_api_commonplayerinfo,Keith Benson
+202729,1991-03-27,nba_api_commonplayerinfo,Josh Selby
+202730,1989-02-04,nba_api_commonplayerinfo,Lavoy Allen
+202731,1986-09-25,nba_api_commonplayerinfo,Vernon Macklin
+202732,1988-03-31,nba_api_commonplayerinfo,DeAndre Liggins
+202733,,common_player_info_error:KeyError,
+202734,1989-02-25,nba_api_commonplayerinfo,E'Twaun Moore
+202735,,common_player_info_error:KeyError,
+202736,,common_player_info_error:KeyError,
+202737,,common_player_info_error:KeyError,
+202738,1989-02-07,nba_api_commonplayerinfo,Isaiah Thomas
+202739,,common_player_info_error:KeyError,
+203076,1993-03-11,nba_api_commonplayerinfo,Anthony Davis
+203077,1993-09-26,nba_api_commonplayerinfo,Michael Kidd-Gilchrist
+203078,1993-06-28,nba_api_commonplayerinfo,Bradley Beal
+203079,1991-12-10,nba_api_commonplayerinfo,Dion Waiters
+203080,1991-03-17,nba_api_commonplayerinfo,Thomas Robinson
+203081,1990-07-15,nba_api_commonplayerinfo,Damian Lillard
+203082,1991-02-05,nba_api_commonplayerinfo,Terrence Ross
+203083,1993-08-10,nba_api_commonplayerinfo,Andre Drummond
+203084,1992-05-30,nba_api_commonplayerinfo,Harrison Barnes
+203085,1992-08-01,nba_api_commonplayerinfo,Austin Rivers
+203086,1992-02-27,nba_api_commonplayerinfo,Meyers Leonard
+203087,1992-05-30,nba_api_commonplayerinfo,Jeremy Lamb
+203088,1991-08-19,nba_api_commonplayerinfo,Kendall Marshall
+203089,1990-12-28,nba_api_commonplayerinfo,John Henson
+203090,1993-05-11,nba_api_commonplayerinfo,Maurice Harkless
+203091,1991-04-10,nba_api_commonplayerinfo,Royce White
+203092,1990-01-17,nba_api_commonplayerinfo,Tyler Zeller
+203093,1992-01-09,nba_api_commonplayerinfo,Terrence Jones
+203094,1989-12-08,nba_api_commonplayerinfo,Andrew Nicholson
+203095,1992-10-29,nba_api_commonplayerinfo,Evan Fournier
+203096,1992-03-04,nba_api_commonplayerinfo,Jared Sullinger
+203097,1990-06-20,nba_api_commonplayerinfo,Fab Melo
+203098,1991-03-06,nba_api_commonplayerinfo,John Jenkins
+203099,1991-05-22,nba_api_commonplayerinfo,Jared Cunningham
+203100,1993-04-13,nba_api_commonplayerinfo,Tony Wroten
+203101,1988-09-01,nba_api_commonplayerinfo,Miles Plumlee
+203102,1990-11-18,nba_api_commonplayerinfo,Arnett Moultrie
+203103,1991-09-24,nba_api_commonplayerinfo,Perry Jones III
+203104,1993-02-28,nba_api_commonplayerinfo,Marquis Teague
+203105,1989-10-21,nba_api_commonplayerinfo,Festus Ezeli
+203106,1989-05-23,nba_api_commonplayerinfo,Jeffery Taylor
+203107,1991-10-30,nba_api_commonplayerinfo,Tomas Satoransky
+203108,1985-02-07,nba_api_commonplayerinfo,Bernard James
+203109,1990-07-06,nba_api_commonplayerinfo,Jae Crowder
+203110,1990-03-04,nba_api_commonplayerinfo,Draymond Green
+203111,1989-03-11,nba_api_commonplayerinfo,Orlando Johnson
+203112,1990-10-06,nba_api_commonplayerinfo,Quincy Acy
+203113,1992-11-18,nba_api_commonplayerinfo,Quincy Miller
+203114,1991-08-12,nba_api_commonplayerinfo,Khris Middleton
+203115,1991-01-06,nba_api_commonplayerinfo,Will Barton
+203116,1990-04-12,nba_api_commonplayerinfo,Tyshawn Taylor
+203117,1991-11-06,nba_api_commonplayerinfo,Doron Lamb
+203118,1988-07-16,nba_api_commonplayerinfo,Mike Scott
+203119,1988-09-24,nba_api_commonplayerinfo,Kim English
+203120,1990-04-01,nba_api_commonplayerinfo,Justin Hamilton
+203121,1990-03-21,nba_api_commonplayerinfo,Darius Miller
+203122,1990-03-06,nba_api_commonplayerinfo,Kevin Murphy
+203123,1990-07-31,nba_api_commonplayerinfo,Kostas Papanikolaou
+203124,1990-03-26,nba_api_commonplayerinfo,Kyle O'Quinn
+203125,,common_player_info_error:KeyError,
+203126,1988-12-17,nba_api_commonplayerinfo,Kris Joseph
+203128,1991-08-09,nba_api_commonplayerinfo,Furkan Aldemir
+203129,1991-10-05,nba_api_commonplayerinfo,Tornike Shengelia
+203130,1989-09-28,nba_api_commonplayerinfo,Darius Johnson-Odom
+203131,,common_player_info_error:KeyError,
+203132,,common_player_info_error:KeyError,
+203133,1989-03-08,nba_api_commonplayerinfo,Robbie Hummel
+203134,,common_player_info_error:KeyError,
+203135,1989-06-06,nba_api_commonplayerinfo,Robert Sacre
+203136,1990-05-16,nba_api_commonplayerinfo,Ognjen Kuzmic
+203138,1991-04-03,nba_api_commonplayerinfo,Hollis Thompson
+203156,1990-03-27,nba_api_commonplayerinfo,Henry Sims
+203158,1989-08-25,nba_api_commonplayerinfo,Kevin Jones
+203159,1990-06-08,nba_api_commonplayerinfo,Scott Machado
+203183,1989-08-07,nba_api_commonplayerinfo,Tony Mitchell
+203189,,common_player_info_error:KeyError,
+203254,,common_player_info_error:KeyError,
+203318,1991-01-01,nba_api_commonplayerinfo,Glen Rice
+203457,1994-04-10,nba_api_commonplayerinfo,Nerlens Noel
+203458,1993-06-16,nba_api_commonplayerinfo,Alex Len
+203459,1992-04-09,nba_api_commonplayerinfo,Allen Crabbe
+203460,1991-12-04,nba_api_commonplayerinfo,Andre Roberson
+203461,1993-03-14,nba_api_commonplayerinfo,Anthony Bennett
+203462,1994-08-17,nba_api_commonplayerinfo,Archie Goodwin
+203463,1993-02-11,nba_api_commonplayerinfo,Ben McLemore
+203464,1991-04-30,nba_api_commonplayerinfo,Brandon Paul
+203466,,common_player_info_error:KeyError,
+203467,1990-08-17,nba_api_commonplayerinfo,Carrick Felix
+203468,1991-09-19,nba_api_commonplayerinfo,CJ McCollum
+203469,1992-10-05,nba_api_commonplayerinfo,Cody Zeller
+203470,,common_player_info_error:KeyError,
+203471,1993-09-15,nba_api_commonplayerinfo,Dennis Schröder
+203472,,common_player_info_error:KeyError,
+203473,1989-08-12,nba_api_commonplayerinfo,Dewayne Dedmon
+203475,1991-05-09,nba_api_commonplayerinfo,Erick Green
+203476,1990-01-18,nba_api_commonplayerinfo,Gorgui Dieng
+203477,1991-05-21,nba_api_commonplayerinfo,Isaiah Canaan
+203478,,common_player_info_error:KeyError,
+203479,1991-07-21,nba_api_commonplayerinfo,Jamaal Franklin
+203480,1990-04-28,nba_api_commonplayerinfo,James Southerland
+203481,1990-03-07,nba_api_commonplayerinfo,Jeff Withey
+203482,1991-04-19,nba_api_commonplayerinfo,Kelly Olynyk
+203483,,common_player_info_error:KeyError,
+203484,1993-02-18,nba_api_commonplayerinfo,Kentavious Caldwell-Pope
+203485,1990-08-26,nba_api_commonplayerinfo,Lorenzo Brown
+203486,1990-03-05,nba_api_commonplayerinfo,Mason Plumlee
+203487,1991-10-10,nba_api_commonplayerinfo,Michael Carter-Williams
+203488,1991-07-01,nba_api_commonplayerinfo,Mike Muscala
+203489,1991-05-15,nba_api_commonplayerinfo,Nate Wolters
+203490,1993-06-03,nba_api_commonplayerinfo,Otto Porter Jr.
+203491,1990-10-24,nba_api_commonplayerinfo,Peyton Siva
+203492,1991-06-12,nba_api_commonplayerinfo,Ray McCallum
+203493,1991-03-16,nba_api_commonplayerinfo,Reggie Bullock Jr.
+203494,,common_player_info_error:KeyError,
+203495,1992-09-10,nba_api_commonplayerinfo,Ricky Ledo
+203496,1990-12-14,nba_api_commonplayerinfo,Robert Covington
+203497,1992-06-26,nba_api_commonplayerinfo,Rudy Gobert
+203498,1992-11-13,nba_api_commonplayerinfo,Shabazz Muhammad
+203499,1992-10-02,nba_api_commonplayerinfo,Shane Larkin
+203500,1993-07-20,nba_api_commonplayerinfo,Steven Adams
+203501,1992-03-16,nba_api_commonplayerinfo,Tim Hardaway Jr.
+203502,1992-04-07,nba_api_commonplayerinfo,Tony Mitchell
+203503,1991-11-10,nba_api_commonplayerinfo,Tony Snell
+203504,1992-11-12,nba_api_commonplayerinfo,Trey Burke
+203505,1992-07-17,nba_api_commonplayerinfo,Vander Blue
+203506,1992-05-04,nba_api_commonplayerinfo,Victor Oladipo
+203507,1994-12-06,nba_api_commonplayerinfo,Giannis Antetokounmpo
+203508,1993-10-26,nba_api_commonplayerinfo,Sergey Karasev
+203509,,common_player_info_error:KeyError,
+203510,1991-08-29,nba_api_commonplayerinfo,Pierre Jackson
+203511,1993-07-08,nba_api_commonplayerinfo,Grant Jerrett
+203512,1992-07-26,nba_api_commonplayerinfo,Lucas Nogueira
+203513,1990-10-26,nba_api_commonplayerinfo,Erik Murphy
+203515,1991-02-17,nba_api_commonplayerinfo,Phil Pressey
+203516,1990-07-01,nba_api_commonplayerinfo,James Ennis III
+203517,1991-06-16,nba_api_commonplayerinfo,Nemanja Nedovic
+203518,1993-08-01,nba_api_commonplayerinfo,Alex Abrines
+203519,1993-03-25,nba_api_commonplayerinfo,Adonis Thomas
+203520,,common_player_info_error:KeyError,
+203522,,common_player_info_error:KeyError,
+203523,,common_player_info_error:KeyError,
+203524,1991-03-18,nba_api_commonplayerinfo,Solomon Hill
+203525,,common_player_info_error:KeyError,
+203526,1992-05-19,nba_api_commonplayerinfo,Raul Neto
+203527,1991-04-09,nba_api_commonplayerinfo,Ryan Kelly
+203528,,common_player_info_error:KeyError,
+203529,,common_player_info_error:KeyError,
+203530,1991-09-30,nba_api_commonplayerinfo,Joffrey Lauvergne
+203531,,common_player_info_error:KeyError,
+203532,,common_player_info_error:KeyError,
+203533,,common_player_info_error:KeyError,
+203552,1990-08-23,nba_api_commonplayerinfo,Seth Curry
+203561,1991-07-25,nba_api_commonplayerinfo,Brandon Davies
+203648,1992-07-18,nba_api_commonplayerinfo,Thanasis Antetokounmpo
+203658,1993-02-03,nba_api_commonplayerinfo,Norvel Pelle
+203733,,common_player_info_error:KeyError,
+203798,1992-12-24,nba_api_commonplayerinfo,PJ Hairston
+203893,1991-04-19,nba_api_commonplayerinfo,Russ Smith
+203894,1991-07-14,nba_api_commonplayerinfo,Shabazz Napier
+203895,1991-03-28,nba_api_commonplayerinfo,Jordan McRae
+203897,1995-03-10,nba_api_commonplayerinfo,Zach LaVine
+203898,1994-08-24,nba_api_commonplayerinfo,Tyler Ennis
+203899,,common_player_info_error:KeyError,
+203900,1992-01-29,nba_api_commonplayerinfo,Markel Brown
+203901,1994-02-22,nba_api_commonplayerinfo,Elfrid Payton
+203902,1992-11-01,nba_api_commonplayerinfo,Semaj Christon
+203903,1992-06-07,nba_api_commonplayerinfo,Jordan Clarkson
+203904,,common_player_info_error:KeyError,
+203905,,common_player_info_error:KeyError,
+203906,1992-09-21,nba_api_commonplayerinfo,Devyn Marble
+203907,,common_player_info_error:KeyError,
+203908,,common_player_info_error:KeyError,
+203909,1993-02-09,nba_api_commonplayerinfo,KJ McDaniels
+203910,1992-12-22,nba_api_commonplayerinfo,Nick Johnson
+203912,1990-12-30,nba_api_commonplayerinfo,C.J. Wilcox
+203913,1992-12-18,nba_api_commonplayerinfo,Jabari Brown
+203914,1994-09-14,nba_api_commonplayerinfo,Gary Harris
+203915,1993-04-06,nba_api_commonplayerinfo,Spencer Dinwiddie
+203917,1993-10-07,nba_api_commonplayerinfo,Nik Stauskas
+203918,1992-10-20,nba_api_commonplayerinfo,Rodney Hood
+203919,1994-07-08,nba_api_commonplayerinfo,Jordan Adams
+203920,1992-09-28,nba_api_commonplayerinfo,Khem Birch
+203921,1991-04-17,nba_api_commonplayerinfo,Cleanthony Early
+203922,1994-01-08,nba_api_commonplayerinfo,Glenn Robinson III
+203923,1995-08-16,nba_api_commonplayerinfo,James Young
+203924,1994-03-12,nba_api_commonplayerinfo,Jerami Grant
+203925,1991-09-06,nba_api_commonplayerinfo,Joe Harris
+203926,1992-01-03,nba_api_commonplayerinfo,Doug McDermott
+203927,,common_player_info_error:KeyError,
+203928,1990-12-26,nba_api_commonplayerinfo,Cory Jefferson
+203929,,common_player_info_error:KeyError,
+203930,1990-01-06,nba_api_commonplayerinfo,Sean Kilpatrick
+203932,1995-09-16,nba_api_commonplayerinfo,Aaron Gordon
+203933,1993-09-05,nba_api_commonplayerinfo,T.J. Warren
+203934,1991-08-12,nba_api_commonplayerinfo,Lamar Patterson
+203935,1994-03-06,nba_api_commonplayerinfo,Marcus Smart
+203937,1993-09-20,nba_api_commonplayerinfo,Kyle Anderson
+203938,,common_player_info_error:KeyError,
+203939,1991-07-20,nba_api_commonplayerinfo,Dwight Powell
+203940,1991-02-19,nba_api_commonplayerinfo,Adreian Payne
+203941,,common_player_info_error:KeyError,
+203942,,common_player_info_error:KeyError,
+203943,1995-08-24,nba_api_commonplayerinfo,Noah Vonleh
+203944,1994-11-29,nba_api_commonplayerinfo,Julius Randle
+203945,1991-11-14,nba_api_commonplayerinfo,Alex Kirk
+203946,1990-12-07,nba_api_commonplayerinfo,Cameron Bairstow
+203947,,common_player_info_error:KeyError,
+203948,1993-06-01,nba_api_commonplayerinfo,Johnny O'Bryant III
+203949,1993-01-04,nba_api_commonplayerinfo,James Michael McAdoo
+203950,1994-01-07,nba_api_commonplayerinfo,Jarnell Stokes
+203952,1995-02-23,nba_api_commonplayerinfo,Andrew Wiggins
+203953,1995-03-15,nba_api_commonplayerinfo,Jabari Parker
+203954,1994-03-16,nba_api_commonplayerinfo,Joel Embiid
+203956,1992-06-06,nba_api_commonplayerinfo,Mitch McGary
+203957,1995-07-13,nba_api_commonplayerinfo,Dante Exum
+203962,1991-12-19,nba_api_commonplayerinfo,Josh Huestis
+203967,1994-04-08,nba_api_commonplayerinfo,Dario Saric
+203991,1994-05-18,nba_api_commonplayerinfo,Clint Capela
+203992,1992-08-18,nba_api_commonplayerinfo,Bogdan Bogdanović
+203993,,common_player_info_error:KeyError,
+203994,1994-08-23,nba_api_commonplayerinfo,Jusuf Nurkić
+203995,1994-01-13,nba_api_commonplayerinfo,Vasilije Micic
+203996,1995-05-20,nba_api_commonplayerinfo,Damien Inglis
+203998,1995-09-21,nba_api_commonplayerinfo,Bruno Caboclo
+203999,1995-02-19,nba_api_commonplayerinfo,Nikola Jokić
+204001,1995-08-02,nba_api_commonplayerinfo,Kristaps Porziņģis
+204002,1992-03-22,nba_api_commonplayerinfo,Edy Tavares
+204009,,common_player_info_error:KeyError,
+204010,,common_player_info_error:KeyError,
+204211,,common_player_info_error:KeyError,
+204456,1992-03-25,nba_api_commonplayerinfo,T.J. McConnell
+1626143,1995-12-15,nba_api_commonplayerinfo,Jahlil Okafor
+1626144,1996-03-05,nba_api_commonplayerinfo,Emmanuel Mudiay
+1626145,1996-05-10,nba_api_commonplayerinfo,Tyus Jones
+1626146,1995-11-16,nba_api_commonplayerinfo,Cliff Alexander
+1626147,1993-11-19,nba_api_commonplayerinfo,Justin Anderson
+1626148,1992-10-10,nba_api_commonplayerinfo,Anthony Brown
+1626149,1994-01-26,nba_api_commonplayerinfo,Montrezl Harrell
+1626150,1994-10-28,nba_api_commonplayerinfo,Andrew Harrison
+1626151,1994-10-28,nba_api_commonplayerinfo,Aaron Harrison
+1626152,,common_player_info_error:KeyError,
+1626153,1992-04-26,nba_api_commonplayerinfo,Delon Wright
+1626154,1993-10-24,nba_api_commonplayerinfo,RJ Hunter
+1626155,1994-05-06,nba_api_commonplayerinfo,Sam Dekker
+1626156,1996-02-23,nba_api_commonplayerinfo,D'Angelo Russell
+1626157,1995-11-15,nba_api_commonplayerinfo,Karl-Anthony Towns
+1626158,1993-10-15,nba_api_commonplayerinfo,Richaun Holmes
+1626159,1996-03-26,nba_api_commonplayerinfo,Justise Winslow
+1626160,,common_player_info_error:KeyError,
+1626161,1993-08-18,nba_api_commonplayerinfo,Willie Cauley-Stein
+1626162,1995-12-09,nba_api_commonplayerinfo,Kelly Oubre Jr.
+1626163,1993-04-04,nba_api_commonplayerinfo,Frank Kaminsky
+1626164,1996-10-30,nba_api_commonplayerinfo,Devin Booker
+1626165,,common_player_info_error:KeyError,
+1626166,1994-08-08,nba_api_commonplayerinfo,Cameron Payne
+1626167,1996-03-24,nba_api_commonplayerinfo,Myles Turner
+1626168,1995-11-05,nba_api_commonplayerinfo,Trey Lyles
+1626169,1996-05-29,nba_api_commonplayerinfo,Stanley Johnson
+1626170,1992-10-09,nba_api_commonplayerinfo,Jerian Grant
+1626171,1995-02-10,nba_api_commonplayerinfo,Bobby Portis
+1626172,1996-02-06,nba_api_commonplayerinfo,Kevon Looney
+1626173,1996-08-16,nba_api_commonplayerinfo,Rashad Vaughn
+1626174,1995-09-27,nba_api_commonplayerinfo,Christian Wood
+1626175,1994-07-09,nba_api_commonplayerinfo,Jordan Mickey
+1626176,1991-12-01,nba_api_commonplayerinfo,Rakeem Christmas
+1626177,1995-09-22,nba_api_commonplayerinfo,Dakari Johnson
+1626178,1995-01-03,nba_api_commonplayerinfo,Rondae Hollis-Jefferson
+1626179,1994-03-17,nba_api_commonplayerinfo,Terry Rozier
+1626180,,common_player_info_error:KeyError,
+1626181,1993-05-25,nba_api_commonplayerinfo,Norman Powell
+1626182,,common_player_info_error:KeyError,
+1626183,1993-02-01,nba_api_commonplayerinfo,Branden Dawson
+1626184,1993-02-05,nba_api_commonplayerinfo,Chasson Randle
+1626185,1994-05-24,nba_api_commonplayerinfo,Jarell Martin
+1626186,,common_player_info_error:KeyError,
+1626187,1994-03-08,nba_api_commonplayerinfo,Michael Frazier II
+1626188,1993-03-23,nba_api_commonplayerinfo,Quinn Cook
+1626189,,common_player_info_error:KeyError,
+1626191,1995-02-05,nba_api_commonplayerinfo,Chris McCullough
+1626192,1993-01-06,nba_api_commonplayerinfo,Pat Connaughton
+1626193,,common_player_info_error:KeyError,
+1626194,,common_player_info_error:KeyError,
+1626195,1994-05-27,nba_api_commonplayerinfo,Willy Hernangomez
+1626196,1993-09-15,nba_api_commonplayerinfo,Josh Richardson
+1626199,1993-04-13,nba_api_commonplayerinfo,Darrun Hilliard
+1626202,1992-06-27,nba_api_commonplayerinfo,Joe Young
+1626203,1993-10-28,nba_api_commonplayerinfo,Treveon Graham
+1626204,1993-01-01,nba_api_commonplayerinfo,Larry Nance Jr.
+1626205,1994-08-05,nba_api_commonplayerinfo,Vincent Hunter
+1626206,,common_player_info_error:KeyError,
+1626207,,common_player_info_error:KeyError,
+1626208,1993-12-30,nba_api_commonplayerinfo,Keifer Sykes
+1626209,1995-02-25,nba_api_commonplayerinfo,Mario Hezonja
+1626210,1993-01-28,nba_api_commonplayerinfo,Alan Williams
+1626215,,common_player_info_error:KeyError,
+1626217,,common_player_info_error:KeyError,
+1626218,,common_player_info_error:KeyError,
+1626221,,common_player_info_error:KeyError,
+1626222,,common_player_info_error:KeyError,
+1626224,1995-04-08,nba_api_commonplayerinfo,Cedi Osman
+1626225,,common_player_info_error:KeyError,
+1626226,1993-12-05,nba_api_commonplayerinfo,Marcus Eriksson
+1626227,,common_player_info_error:KeyError,
+1626228,,common_player_info_error:KeyError,
+1626229,,common_player_info_error:KeyError,
+1626230,,common_player_info_error:KeyError,
+1626231,,common_player_info_error:KeyError,
+1626232,,common_player_info_error:KeyError,
+1627361,,common_player_info_error:KeyError,
+1627732,1996-07-20,nba_api_commonplayerinfo,Ben Simmons
+1627733,1997-11-17,nba_api_commonplayerinfo,Dragan Bender
+1627734,1996-05-03,nba_api_commonplayerinfo,Domantas Sabonis
+1627735,1996-03-29,nba_api_commonplayerinfo,Wade Baldwin IV
+1627736,1996-11-26,nba_api_commonplayerinfo,Malik Beasley
+1627737,1997-07-02,nba_api_commonplayerinfo,Marquese Chriss
+1627738,1996-12-02,nba_api_commonplayerinfo,Deyonta Davis
+1627739,1994-03-18,nba_api_commonplayerinfo,Kris Dunn
+1627740,1997-01-13,nba_api_commonplayerinfo,Henry Ellenson
+1627741,1992-12-17,nba_api_commonplayerinfo,Buddy Hield
+1627742,1997-09-02,nba_api_commonplayerinfo,Brandon Ingram
+1627743,1994-09-07,nba_api_commonplayerinfo,Demetrius Jackson
+1627744,1994-06-27,nba_api_commonplayerinfo,Brice Johnson
+1627745,1995-06-30,nba_api_commonplayerinfo,Damian Jones
+1627746,1996-03-18,nba_api_commonplayerinfo,Skal Labissiere
+1627747,1994-08-25,nba_api_commonplayerinfo,Caris LeVert
+1627748,1997-02-25,nba_api_commonplayerinfo,Thon Maker
+1627749,1996-09-19,nba_api_commonplayerinfo,Dejounte Murray
+1627750,1997-02-23,nba_api_commonplayerinfo,Jamal Murray
+1627751,1995-10-15,nba_api_commonplayerinfo,Jakob Poeltl
+1627752,1994-03-22,nba_api_commonplayerinfo,Taurean Prince
+1627753,1996-01-16,nba_api_commonplayerinfo,Zhou Qi
+1627754,1997-02-10,nba_api_commonplayerinfo,Diamond Stone
+1627755,1996-01-05,nba_api_commonplayerinfo,Tyler Ulis
+1627756,1993-11-16,nba_api_commonplayerinfo,Denzel Valentine
+1627757,1996-09-09,nba_api_commonplayerinfo,Stephen Zimmerman
+1627758,1993-03-30,nba_api_commonplayerinfo,Ron Baker
+1627759,1996-10-24,nba_api_commonplayerinfo,Jaylen Brown
+1627760,1994-07-25,nba_api_commonplayerinfo,Cat Barber
+1627761,1994-07-04,nba_api_commonplayerinfo,DeAndre' Bembry
+1627762,1994-01-28,nba_api_commonplayerinfo,Joel Bolomboy
+1627763,1992-12-11,nba_api_commonplayerinfo,Malcolm Brogdon
+1627765,,common_player_info_error:KeyError,
+1627766,,common_player_info_error:KeyError,
+1627767,1996-09-13,nba_api_commonplayerinfo,Cheick Diallo
+1627768,1993-09-14,nba_api_commonplayerinfo,Perry Ellis
+1627770,1995-03-29,nba_api_commonplayerinfo,Kay Felder
+1627771,1992-06-05,nba_api_commonplayerinfo,Michael Gbinije
+1627772,1995-08-08,nba_api_commonplayerinfo,Daniel Hamilton
+1627773,1992-08-27,nba_api_commonplayerinfo,AJ Hammons
+1627774,1994-03-07,nba_api_commonplayerinfo,Jake Layman
+1627775,1995-10-25,nba_api_commonplayerinfo,Patrick McCaw
+1627777,1993-06-17,nba_api_commonplayerinfo,Georges Niang
+1627778,1996-11-01,nba_api_commonplayerinfo,Chinanu Onuaku
+1627779,1993-09-11,nba_api_commonplayerinfo,Marcus Paige
+1627780,1992-12-01,nba_api_commonplayerinfo,Gary Payton II
+1627781,1996-01-05,nba_api_commonplayerinfo,Malachi Richardson
+1627782,1994-09-30,nba_api_commonplayerinfo,Wayne Selden
+1627783,1994-04-02,nba_api_commonplayerinfo,Pascal Siakam
+1627784,1993-05-19,nba_api_commonplayerinfo,Jarrod Uthoff
+1627785,1995-03-08,nba_api_commonplayerinfo,Isaiah Whitehead
+1627786,1994-12-30,nba_api_commonplayerinfo,Troy Williams
+1627787,1992-10-20,nba_api_commonplayerinfo,Kyle Wiltjer
+1627788,1997-07-24,nba_api_commonplayerinfo,Furkan Korkmaz
+1627789,1995-05-09,nba_api_commonplayerinfo,Timothe Luwawu-Cabarrot
+1627790,1997-01-04,nba_api_commonplayerinfo,Ante Zizic
+1627791,1995-03-29,nba_api_commonplayerinfo,Ben Bentil
+1627820,1994-06-10,nba_api_commonplayerinfo,Tyrone Wallace
+1627822,1995-07-26,nba_api_commonplayerinfo,Petr Cornelie
+1627823,1995-09-28,nba_api_commonplayerinfo,Juancho Hernangomez
+1627824,1995-12-17,nba_api_commonplayerinfo,Guerschon Yabusele
+1627825,,common_player_info_error:KeyError,
+1627826,1997-03-18,nba_api_commonplayerinfo,Ivica Zubac
+1627827,1993-05-04,nba_api_commonplayerinfo,Dorian Finney-Smith
+1627833,,common_player_info_error:KeyError,
+1627834,1997-07-03,nba_api_commonplayerinfo,Georgios Papagiannis
+1627835,1994-02-18,nba_api_commonplayerinfo,Paul Zipser
+1627837,,common_player_info_error:KeyError,
+1627845,,common_player_info_error:KeyError,
+1627846,1993-09-25,nba_api_commonplayerinfo,Abdel Nader
+1628365,1998-05-29,nba_api_commonplayerinfo,Markelle Fultz
+1628366,1997-10-27,nba_api_commonplayerinfo,Lonzo Ball
+1628367,1997-02-10,nba_api_commonplayerinfo,Josh Jackson
+1628368,1997-12-20,nba_api_commonplayerinfo,De'Aaron Fox
+1628369,1998-03-03,nba_api_commonplayerinfo,Jayson Tatum
+1628370,1998-02-04,nba_api_commonplayerinfo,Malik Monk
+1628371,1997-10-03,nba_api_commonplayerinfo,Jonathan Isaac
+1628372,1997-11-25,nba_api_commonplayerinfo,Dennis Smith Jr.
+1628373,1998-07-28,nba_api_commonplayerinfo,Frank Ntilikina
+1628374,1997-05-22,nba_api_commonplayerinfo,Lauri Markkanen
+1628378,1996-09-07,nba_api_commonplayerinfo,Donovan Mitchell
+1628379,1996-06-24,nba_api_commonplayerinfo,Luke Kennard
+1628380,1997-11-19,nba_api_commonplayerinfo,Zach Collins
+1628381,1997-09-23,nba_api_commonplayerinfo,John Collins
+1628382,1995-03-28,nba_api_commonplayerinfo,Justin Jackson
+1628383,1997-06-14,nba_api_commonplayerinfo,Justin Patton
+1628384,1997-07-17,nba_api_commonplayerinfo,OG Anunoby
+1628385,1998-04-22,nba_api_commonplayerinfo,Harry Giles III
+1628386,1998-04-21,nba_api_commonplayerinfo,Jarrett Allen
+1628387,1998-10-16,nba_api_commonplayerinfo,Ike Anigbogu
+1628388,1997-04-30,nba_api_commonplayerinfo,T.J. Leaf
+1628389,1997-07-18,nba_api_commonplayerinfo,Bam Adebayo
+1628390,1998-05-17,nba_api_commonplayerinfo,Terrance Ferguson
+1628391,1996-02-19,nba_api_commonplayerinfo,D.J. Wilson
+1628392,1998-05-05,nba_api_commonplayerinfo,Isaiah Hartenstein
+1628393,1996-07-26,nba_api_commonplayerinfo,Jawun Evans
+1628394,1995-12-20,nba_api_commonplayerinfo,Anžejs Pasečņiks
+1628395,1995-01-07,nba_api_commonplayerinfo,Jordan Bell
+1628396,1998-01-08,nba_api_commonplayerinfo,Tony Bradley
+1628397,1997-02-04,nba_api_commonplayerinfo,Ivan Rabb
+1628398,1995-07-24,nba_api_commonplayerinfo,Kyle Kuzma
+1628399,1996-04-09,nba_api_commonplayerinfo,Tyler Lydon
+1628400,1994-12-05,nba_api_commonplayerinfo,Semi Ojeleye
+1628401,1994-07-02,nba_api_commonplayerinfo,Derrick White
+1628402,1998-05-04,nba_api_commonplayerinfo,Frank Jackson
+1628403,1997-04-18,nba_api_commonplayerinfo,Caleb Swanigan
+1628404,1995-03-06,nba_api_commonplayerinfo,Josh Hart
+1628405,1995-05-04,nba_api_commonplayerinfo,Johnathan Motley
+1628406,,common_player_info_error:KeyError,
+1628407,1995-08-30,nba_api_commonplayerinfo,Dwayne Bacon
+1628408,1996-10-25,nba_api_commonplayerinfo,PJ Dozier
+1628409,1995-04-13,nba_api_commonplayerinfo,Alec Peters
+1628410,1995-12-31,nba_api_commonplayerinfo,Edmond Sumner
+1628411,1994-12-20,nba_api_commonplayerinfo,Wes Iwundu
+1628412,1994-04-03,nba_api_commonplayerinfo,Frank Mason III
+1628413,1996-01-02,nba_api_commonplayerinfo,Jonah Bolden
+1628414,1994-11-15,nba_api_commonplayerinfo,Sindarius Thornwell
+1628415,1996-01-22,nba_api_commonplayerinfo,Dillon Brooks
+1628416,1996-02-18,nba_api_commonplayerinfo,Tyler Dorsey
+1628417,1993-09-16,nba_api_commonplayerinfo,Jaron Blossomgame
+1628418,1997-07-31,nba_api_commonplayerinfo,Thomas Bryant
+1628419,1996-07-11,nba_api_commonplayerinfo,Cameron Oliver
+1628420,1995-06-27,nba_api_commonplayerinfo,Monte Morris
+1628421,1995-03-07,nba_api_commonplayerinfo,Devin Robinson
+1628422,1994-05-06,nba_api_commonplayerinfo,Damyean Dotson
+1628424,1997-07-04,nba_api_commonplayerinfo,Kobi Simmons
+1628425,1995-02-10,nba_api_commonplayerinfo,Sterling Brown
+1628426,1995-08-06,nba_api_commonplayerinfo,Sasha Vezenkov
+1628427,1997-04-10,nba_api_commonplayerinfo,Vlatko Čančar
+1628430,1994-09-16,nba_api_commonplayerinfo,Nigel Williams-Goss
+1628431,,common_player_info_error:KeyError,
+1628432,1995-06-11,nba_api_commonplayerinfo,Davon Reed
+1628439,1994-07-24,nba_api_commonplayerinfo,Isaiah Hicks
+1628443,1993-01-15,nba_api_commonplayerinfo,Kadeem Allen
+1628444,1994-07-03,nba_api_commonplayerinfo,Jabari Bird
+1628445,,common_player_info_error:KeyError,
+1628446,,common_player_info_error:KeyError,
+1628449,1993-01-11,nba_api_commonplayerinfo,Chris Boucher
+1628452,,common_player_info_error:KeyError,
+1628453,,common_player_info_error:KeyError,
+1628476,1995-04-03,nba_api_commonplayerinfo,Derrick Walton Jr.
+1628502,1994-12-16,nba_api_commonplayerinfo,Nigel Hayes-Davis
+1628503,1993-01-12,nba_api_commonplayerinfo,Jamel Artis
+1628514,,common_player_info_error:KeyError,
+1628515,1996-04-13,nba_api_commonplayerinfo,Isaiah Briscoe
+1628959,1997-10-29,nba_api_commonplayerinfo,Rawle Alkins
+1628960,1995-10-08,nba_api_commonplayerinfo,Grayson Allen
+1628961,1997-11-20,nba_api_commonplayerinfo,Kostas Antetokounmpo
+1628962,1999-09-17,nba_api_commonplayerinfo,Udoka Azubuike
+1628963,1999-03-14,nba_api_commonplayerinfo,Marvin Bagley III
+1628964,1998-05-12,nba_api_commonplayerinfo,Mo Bamba
+1628965,,common_player_info_error:KeyError,
+1628966,1996-01-23,nba_api_commonplayerinfo,Keita Bates-Diop
+1628967,,common_player_info_error:KeyError,
+1628968,1998-10-02,nba_api_commonplayerinfo,Brian Bowen II
+1628969,1996-08-30,nba_api_commonplayerinfo,Mikal Bridges
+1628970,1998-03-21,nba_api_commonplayerinfo,Miles Bridges
+1628971,1996-08-15,nba_api_commonplayerinfo,Bruce Brown
+1628972,1999-07-28,nba_api_commonplayerinfo,Troy Brown Jr.
+1628973,1996-08-31,nba_api_commonplayerinfo,Jalen Brunson
+1628974,1997-10-11,nba_api_commonplayerinfo,Tony Carr
+1628975,1995-09-14,nba_api_commonplayerinfo,Jevon Carter
+1628976,1999-04-16,nba_api_commonplayerinfo,Wendell Carter Jr.
+1628977,1998-07-31,nba_api_commonplayerinfo,Hamidou Diallo
+1628978,1997-01-31,nba_api_commonplayerinfo,Donte DiVincenzo
+1628979,1998-08-03,nba_api_commonplayerinfo,Trevon Duval
+1628980,1997-06-18,nba_api_commonplayerinfo,Jacob Evans
+1628981,1998-08-15,nba_api_commonplayerinfo,Bruno Fernando
+1628982,1996-08-30,nba_api_commonplayerinfo,Melvin Frazier Jr.
+1628983,1998-07-12,nba_api_commonplayerinfo,Shai Gilgeous-Alexander
+1628984,1995-02-22,nba_api_commonplayerinfo,Devonte' Graham
+1628985,1995-07-07,nba_api_commonplayerinfo,Devon Hall
+1628986,,common_player_info_error:KeyError,
+1628987,1996-07-09,nba_api_commonplayerinfo,Kevin Hervey
+1628988,1996-09-30,nba_api_commonplayerinfo,Aaron Holiday
+1628989,1998-08-27,nba_api_commonplayerinfo,Kevin Huerter
+1628990,1996-04-26,nba_api_commonplayerinfo,Chandler Hutchison
+1628991,1999-09-15,nba_api_commonplayerinfo,Jaren Jackson Jr.
+1628992,,common_player_info_error:KeyError,
+1628993,1996-04-22,nba_api_commonplayerinfo,Alize Johnson
+1628994,1994-01-15,nba_api_commonplayerinfo,George King
+1628995,1999-08-11,nba_api_commonplayerinfo,Kevin Knox II
+1628996,,common_player_info_error:KeyError,
+1628997,1995-09-28,nba_api_commonplayerinfo,Caleb Martin
+1628998,1995-09-28,nba_api_commonplayerinfo,Cody Martin
+1628999,1996-08-14,nba_api_commonplayerinfo,Yante Maten
+1629000,,common_player_info_error:KeyError,
+1629001,1998-05-28,nba_api_commonplayerinfo,De'Anthony Melton
+1629002,1997-03-22,nba_api_commonplayerinfo,Chimezie Metu
+1629003,1996-09-26,nba_api_commonplayerinfo,Shake Milton
+1629004,1997-06-10,nba_api_commonplayerinfo,Svi Mykhailiuk
+1629005,1997-02-21,nba_api_commonplayerinfo,Malik Newman
+1629006,1998-09-01,nba_api_commonplayerinfo,Josh Okogie
+1629007,1999-11-15,nba_api_commonplayerinfo,Jontay Porter
+1629008,1998-06-29,nba_api_commonplayerinfo,Michael Porter Jr.
+1629009,,common_player_info_error:KeyError,
+1629010,1997-02-22,nba_api_commonplayerinfo,Jerome Robinson
+1629011,1998-04-01,nba_api_commonplayerinfo,Mitchell Robinson
+1629012,1999-01-04,nba_api_commonplayerinfo,Collin Sexton
+1629013,1997-03-13,nba_api_commonplayerinfo,Landry Shamet
+1629014,1999-06-08,nba_api_commonplayerinfo,Anfernee Simons
+1629015,1999-06-04,nba_api_commonplayerinfo,Zhaire Smith
+1629016,1997-07-21,nba_api_commonplayerinfo,Omari Spellman
+1629017,1996-05-08,nba_api_commonplayerinfo,Khyri Thomas
+1629018,1999-01-18,nba_api_commonplayerinfo,Gary Trent Jr.
+1629019,1996-01-17,nba_api_commonplayerinfo,Allonzo Trier
+1629020,1999-04-03,nba_api_commonplayerinfo,Jarred Vanderbilt
+1629021,1997-04-26,nba_api_commonplayerinfo,Moritz Wagner
+1629022,1998-12-14,nba_api_commonplayerinfo,Lonnie Walker IV
+1629023,1998-08-23,nba_api_commonplayerinfo,P.J. Washington
+1629024,,common_player_info_error:KeyError,
+1629025,,common_player_info_error:KeyError,
+1629026,1994-12-02,nba_api_commonplayerinfo,Kenrich Williams
+1629027,1998-09-19,nba_api_commonplayerinfo,Trae Young
+1629028,1998-07-23,nba_api_commonplayerinfo,Deandre Ayton
+1629029,1999-02-28,nba_api_commonplayerinfo,Luka Dončić
+1629033,1995-11-05,nba_api_commonplayerinfo,Theo Pinson
+1629034,1997-03-11,nba_api_commonplayerinfo,Ray Spalding
+1629035,1998-03-12,nba_api_commonplayerinfo,Carsen Edwards
+1629036,,common_player_info_error:KeyError,
+1629037,,common_player_info_error:KeyError,
+1629044,1998-06-29,nba_api_commonplayerinfo,Shamorie Ponds
+1629048,1999-07-20,nba_api_commonplayerinfo,Goga Bitadze
+1629052,1998-06-20,nba_api_commonplayerinfo,Oshae Brissett
+1629053,1996-04-05,nba_api_commonplayerinfo,Vincent Edwards
+1629056,1997-05-16,nba_api_commonplayerinfo,Terence Davis
+1629057,1997-10-17,nba_api_commonplayerinfo,Robert Williams III
+1629058,1999-05-08,nba_api_commonplayerinfo,Dzanan Musa
+1629059,1997-10-23,nba_api_commonplayerinfo,Elie Okobo
+1629060,1998-02-08,nba_api_commonplayerinfo,Rui Hachimura
+1629065,1997-06-16,nba_api_commonplayerinfo,Ky Bowman
+1629066,1998-02-05,nba_api_commonplayerinfo,Rodions Kurucs
+1629067,1999-11-08,nba_api_commonplayerinfo,Isaac Bonga
+1629068,,common_player_info_error:KeyError,
+1629076,1997-09-23,nba_api_commonplayerinfo,Tyler Cook
+1629079,,common_player_info_error:KeyError,
+1629083,1998-01-04,nba_api_commonplayerinfo,Arnoldas Kulboka
+1629118,1996-02-03,nba_api_commonplayerinfo,Thomas Welsh
+1629159,,common_player_info_error:KeyError,
+1629346,2000-08-18,nba_api_commonplayerinfo,Alen Smailagic
+1629603,1997-01-21,nba_api_commonplayerinfo,Mamadi Diakite
+1629604,2000-06-16,nba_api_commonplayerinfo,CJ Elleby
+1629605,1995-12-10,nba_api_commonplayerinfo,Tacko Fall
+1629607,1997-09-14,nba_api_commonplayerinfo,Jared Harper
+1629608,1996-12-09,nba_api_commonplayerinfo,Dewan Hernandez
+1629610,1997-08-30,nba_api_commonplayerinfo,DaQuan Jeffries
+1629611,1996-10-18,nba_api_commonplayerinfo,Terance Mann
+1629614,2000-01-16,nba_api_commonplayerinfo,Andrew Nembhard
+1629617,2000-03-21,nba_api_commonplayerinfo,Reggie Perry
+1629618,1999-10-22,nba_api_commonplayerinfo,Jalen Pickett
+1629619,1997-07-07,nba_api_commonplayerinfo,Myles Powell
+1629621,1995-07-26,nba_api_commonplayerinfo,Marial Shayok
+1629625,1997-10-27,nba_api_commonplayerinfo,Justin Wright-Foreman
+1629626,1999-11-16,nba_api_commonplayerinfo,Bol Bol
+1629627,2000-07-06,nba_api_commonplayerinfo,Zion Williamson
+1629628,2000-06-14,nba_api_commonplayerinfo,RJ Barrett
+1629629,1999-09-01,nba_api_commonplayerinfo,Cam Reddish
+1629630,1999-08-10,nba_api_commonplayerinfo,Ja Morant
+1629631,1997-12-02,nba_api_commonplayerinfo,De'Andre Hunter
+1629632,2000-02-16,nba_api_commonplayerinfo,Coby White
+1629633,1999-02-20,nba_api_commonplayerinfo,Jarrett Culver
+1629634,1996-09-19,nba_api_commonplayerinfo,Brandon Clarke
+1629635,2000-12-23,nba_api_commonplayerinfo,Sekou Doumbouya
+1629636,2000-01-26,nba_api_commonplayerinfo,Darius Garland
+1629637,2000-05-23,nba_api_commonplayerinfo,Jaxson Hayes
+1629638,1998-09-02,nba_api_commonplayerinfo,Nickeil Alexander-Walker
+1629639,2000-01-20,nba_api_commonplayerinfo,Tyler Herro
+1629640,1999-10-11,nba_api_commonplayerinfo,Keldon Johnson
+1629641,1999-10-25,nba_api_commonplayerinfo,Romeo Langford
+1629642,2000-02-11,nba_api_commonplayerinfo,Nassir Little
+1629643,1998-08-18,nba_api_commonplayerinfo,Chuma Okeke
+1629644,1999-04-28,nba_api_commonplayerinfo,KZ Okpala
+1629645,2000-05-04,nba_api_commonplayerinfo,Kevin Porter Jr.
+1629646,2000-10-28,nba_api_commonplayerinfo,Charles Bassey
+1629647,2000-06-12,nba_api_commonplayerinfo,Darius Bazley
+1629648,1997-11-05,nba_api_commonplayerinfo,Jordan Bone
+1629649,1999-01-08,nba_api_commonplayerinfo,Ignas Brazdeikis
+1629650,1999-10-13,nba_api_commonplayerinfo,Moses Brown
+1629651,1999-04-17,nba_api_commonplayerinfo,Nic Claxton
+1629652,1999-04-19,nba_api_commonplayerinfo,Luguentz Dort
+1629653,1999-08-02,nba_api_commonplayerinfo,Devon Dotson
+1629655,1998-10-01,nba_api_commonplayerinfo,Daniel Gafford
+1629656,2000-05-08,nba_api_commonplayerinfo,Quentin Grimes
+1629657,1997-08-11,nba_api_commonplayerinfo,Kyle Guy
+1629658,1999-03-30,nba_api_commonplayerinfo,Jaylen Hoard
+1629659,2000-11-25,nba_api_commonplayerinfo,Talen Horton-Tucker
+1629660,1997-07-08,nba_api_commonplayerinfo,Ty Jerome
+1629661,1996-03-03,nba_api_commonplayerinfo,Cameron Johnson
+1629662,1997-08-14,nba_api_commonplayerinfo,Mfiondu Kabengele
+1629663,1999-04-06,nba_api_commonplayerinfo,Louis King
+1629664,,common_player_info_error:KeyError,
+1629665,2000-06-13,nba_api_commonplayerinfo,Jalen Lecque
+1629666,1996-11-15,nba_api_commonplayerinfo,Charles Matthews
+1629667,1998-01-31,nba_api_commonplayerinfo,Jalen McDaniels
+1629668,1997-12-09,nba_api_commonplayerinfo,Zach Norvell Jr.
+1629669,1999-07-09,nba_api_commonplayerinfo,Jaylen Nowell
+1629670,1998-09-09,nba_api_commonplayerinfo,Jordan Nwora
+1629671,1997-08-04,nba_api_commonplayerinfo,Miye Oni
+1629672,1996-11-04,nba_api_commonplayerinfo,Eric Paschall
+1629673,1999-06-19,nba_api_commonplayerinfo,Jordan Poole
+1629674,1999-07-13,nba_api_commonplayerinfo,Neemias Queta
+1629675,1999-08-26,nba_api_commonplayerinfo,Naz Reid
+1629676,1998-02-03,nba_api_commonplayerinfo,Isaiah Roby
+1629677,2000-01-09,nba_api_commonplayerinfo,Luka Samanic
+1629678,1997-03-30,nba_api_commonplayerinfo,Admiral Schofield
+1629679,1999-11-07,nba_api_commonplayerinfo,Simisola Shittu
+1629680,1997-03-04,nba_api_commonplayerinfo,Matisse Thybulle
+1629681,1998-03-05,nba_api_commonplayerinfo,Killian Tillie
+1629682,1998-01-10,nba_api_commonplayerinfo,Tremont Waters
+1629683,1996-09-10,nba_api_commonplayerinfo,Quinndary Weatherspoon
+1629684,1998-11-30,nba_api_commonplayerinfo,Grant Williams
+1629685,1996-09-22,nba_api_commonplayerinfo,Dylan Windler
+1629686,2000-06-10,nba_api_commonplayerinfo,Deividas Sirvydis
+1629700,1999-07-27,nba_api_commonplayerinfo,Kaleb Wesson
+1629712,1999-07-02,nba_api_commonplayerinfo,Didi Louzada
+1629713,1997-01-24,nba_api_commonplayerinfo,Justin James
+1629714,1996-06-07,nba_api_commonplayerinfo,Jarrell Brantley
+1630162,2001-08-05,nba_api_commonplayerinfo,Anthony Edwards
+1630163,2001-08-22,nba_api_commonplayerinfo,LaMelo Ball
+1630164,2001-03-31,nba_api_commonplayerinfo,James Wiseman
+1630165,2001-07-27,nba_api_commonplayerinfo,Killian Hayes
+1630166,2001-01-03,nba_api_commonplayerinfo,Deni Avdija
+1630167,1998-03-04,nba_api_commonplayerinfo,Obi Toppin
+1630168,2000-12-11,nba_api_commonplayerinfo,Onyeka Okongwu
+1630169,2000-02-29,nba_api_commonplayerinfo,Tyrese Haliburton
+1630170,2000-08-23,nba_api_commonplayerinfo,Devin Vassell
+1630171,2001-01-26,nba_api_commonplayerinfo,Isaac Okoro
+1630172,2001-08-26,nba_api_commonplayerinfo,Patrick Williams
+1630173,1999-09-19,nba_api_commonplayerinfo,Precious Achiuwa
+1630174,1999-10-16,nba_api_commonplayerinfo,Aaron Nesmith
+1630175,2000-05-15,nba_api_commonplayerinfo,Cole Anthony
+1630176,2001-02-25,nba_api_commonplayerinfo,Vernon Carey Jr.
+1630177,2001-06-12,nba_api_commonplayerinfo,Theo Maledon
+1630178,2000-11-04,nba_api_commonplayerinfo,Tyrese Maxey
+1630179,2000-09-28,nba_api_commonplayerinfo,Tyrell Terry
+1630180,1999-04-09,nba_api_commonplayerinfo,Saddiq Bey
+1630181,2001-02-07,nba_api_commonplayerinfo,R.J. Hampton
+1630182,2000-11-16,nba_api_commonplayerinfo,Josh Green
+1630183,2000-09-29,nba_api_commonplayerinfo,Jaden McDaniels
+1630184,2001-04-06,nba_api_commonplayerinfo,Kira Lewis Jr.
+1630185,2001-03-14,nba_api_commonplayerinfo,Nico Mannion
+1630186,2001-06-09,nba_api_commonplayerinfo,Jahmi'us Ramsey
+1630187,1999-09-20,nba_api_commonplayerinfo,Daniel Oturu
+1630188,2000-03-16,nba_api_commonplayerinfo,Jalen Smith
+1630189,1998-02-10,nba_api_commonplayerinfo,Tyler Bey
+1630190,1998-03-10,nba_api_commonplayerinfo,Elijah Hughes
+1630191,2001-05-22,nba_api_commonplayerinfo,Isaiah Stewart
+1630192,2001-01-09,nba_api_commonplayerinfo,Zeke Nnaji
+1630193,1999-06-17,nba_api_commonplayerinfo,Immanuel Quickley
+1630194,1999-06-14,nba_api_commonplayerinfo,Paul Reed
+1630195,2000-09-11,nba_api_commonplayerinfo,Leandro Bolmaro
+1630196,2000-04-15,nba_api_commonplayerinfo,Filip Petrusev
+1630197,2001-12-26,nba_api_commonplayerinfo,Aleksej Pokusevski
+1630198,1999-07-02,nba_api_commonplayerinfo,Isaiah Joe
+1630199,1999-08-18,nba_api_commonplayerinfo,Cassius Stanley
+1630200,2000-01-08,nba_api_commonplayerinfo,Tre Jones
+1630201,1998-05-09,nba_api_commonplayerinfo,Malachi Flynn
+1630202,1998-01-28,nba_api_commonplayerinfo,Payton Pritchard
+1630203,1997-02-08,nba_api_commonplayerinfo,Grant Riller
+1630204,1999-07-08,nba_api_commonplayerinfo,Ashton Hagans
+1630205,1997-07-09,nba_api_commonplayerinfo,Lamar Stevens
+1630206,2000-09-01,nba_api_commonplayerinfo,Jay Scrubb
+1630208,1997-11-29,nba_api_commonplayerinfo,Nick Richards
+1630210,1999-03-03,nba_api_commonplayerinfo,Markus Howard
+1630211,2000-05-16,nba_api_commonplayerinfo,Karim Mane
+1630213,1998-01-13,nba_api_commonplayerinfo,Yoeli Childs
+1630214,1999-01-12,nba_api_commonplayerinfo,Xavier Tillman
+1630215,2000-08-25,nba_api_commonplayerinfo,Jared Butler
+1630216,1998-02-28,nba_api_commonplayerinfo,Cassius Winston
+1630217,1998-06-25,nba_api_commonplayerinfo,Desmond Bane
+1630218,1999-09-22,nba_api_commonplayerinfo,Robert Woodard II
+1630219,1997-09-05,nba_api_commonplayerinfo,Skylar Mays
+1630220,2000-02-15,nba_api_commonplayerinfo,Paul Eboua
+1630221,2000-10-08,nba_api_commonplayerinfo,Josh Hall
+1630222,1998-07-21,nba_api_commonplayerinfo,Mason Jones
+1630223,1998-08-14,nba_api_commonplayerinfo,Jalen Harris
+1630224,2002-02-09,nba_api_commonplayerinfo,Jalen Green
+1630225,2001-10-17,nba_api_commonplayerinfo,Isaiah Todd
+1630227,2002-02-13,nba_api_commonplayerinfo,Daishen Nix
+1630228,2002-10-06,nba_api_commonplayerinfo,Jonathan Kuminga
+1630230,1998-01-24,nba_api_commonplayerinfo,Naji Marshall
+1630231,2001-01-06,nba_api_commonplayerinfo,KJ Martin
+1630232,2001-01-08,nba_api_commonplayerinfo,Kahlil Whitney
+1630233,1997-09-20,nba_api_commonplayerinfo,Nathan Knight
+1630234,1998-07-16,nba_api_commonplayerinfo,Ty-Shon Alexander
+1630235,1998-06-12,nba_api_commonplayerinfo,Trent Forrest
+1630236,2000-12-21,nba_api_commonplayerinfo,Yam Madar
+1630240,1999-06-23,nba_api_commonplayerinfo,Saben Lee
+1630241,1996-05-15,nba_api_commonplayerinfo,Sam Merrill
+1630245,2000-01-17,nba_api_commonplayerinfo,Ayo Dosunmu
+1630249,2000-06-19,nba_api_commonplayerinfo,Vít Krejčí
+1630250,1999-10-15,nba_api_commonplayerinfo,Marko Simonovic
+1630251,,common_player_info_error:KeyError,
+1630525,2001-02-26,nba_api_commonplayerinfo,David Johnson
+1630526,2000-11-03,nba_api_commonplayerinfo,Jeremiah Robinson-Earl
+1630527,2001-11-28,nba_api_commonplayerinfo,Brandon Boston
+1630528,2001-12-08,nba_api_commonplayerinfo,Josh Christopher
+1630529,1998-10-06,nba_api_commonplayerinfo,Herbert Jones
+1630530,2000-06-18,nba_api_commonplayerinfo,Trey Murphy III
+1630531,2002-09-25,nba_api_commonplayerinfo,Jaden Springer
+1630532,2001-08-27,nba_api_commonplayerinfo,Franz Wagner
+1630533,2001-09-12,nba_api_commonplayerinfo,Ziaire Williams
+1630534,2000-04-20,nba_api_commonplayerinfo,Ochai Agbaji
+1630535,2001-09-01,nba_api_commonplayerinfo,Greg Brown III
+1630536,2001-06-11,nba_api_commonplayerinfo,Sharife Cooper
+1630537,1997-06-13,nba_api_commonplayerinfo,Chris Duarte
+1630538,2000-09-14,nba_api_commonplayerinfo,Bones Hyland
+1630539,2001-01-19,nba_api_commonplayerinfo,Kai Jones
+1630540,2000-09-08,nba_api_commonplayerinfo,Miles McBride
+1630541,2002-05-31,nba_api_commonplayerinfo,Moses Moody
+1630542,2001-10-23,nba_api_commonplayerinfo,Marcus Bagley
+1630543,2002-01-10,nba_api_commonplayerinfo,Isaiah Jackson
+1630544,2001-02-03,nba_api_commonplayerinfo,Tre Mann
+1630545,2000-07-30,nba_api_commonplayerinfo,Terrence Shannon Jr.
+1630546,2001-04-02,nba_api_commonplayerinfo,Max Abmas
+1630547,2000-09-18,nba_api_commonplayerinfo,James Bouknight
+1630548,2001-03-17,nba_api_commonplayerinfo,Johnny Juzang
+1630549,2001-11-06,nba_api_commonplayerinfo,Day'Ron Sharpe
+1630550,2002-08-26,nba_api_commonplayerinfo,JT Thor
+1630551,2001-06-29,nba_api_commonplayerinfo,Justin Champagnie
+1630552,2001-12-18,nba_api_commonplayerinfo,Jalen Johnson
+1630553,2002-03-10,nba_api_commonplayerinfo,Keon Johnson
+1630554,1999-08-10,nba_api_commonplayerinfo,Jason Preston
+1630556,2000-08-09,nba_api_commonplayerinfo,Kessler Edwards
+1630557,1999-03-03,nba_api_commonplayerinfo,Corey Kispert
+1630558,1998-09-05,nba_api_commonplayerinfo,Davion Mitchell
+1630559,1998-05-29,nba_api_commonplayerinfo,Austin Reaves
+1630560,2001-10-13,nba_api_commonplayerinfo,Cam Thomas
+1630561,1999-10-13,nba_api_commonplayerinfo,David Duke Jr.
+1630562,2000-04-20,nba_api_commonplayerinfo,Matt Hurt
+1630563,2002-12-24,nba_api_commonplayerinfo,Joshua Primo
+1630564,1999-07-07,nba_api_commonplayerinfo,RaiQuan Gray
+1630565,1999-08-30,nba_api_commonplayerinfo,Aaron Henry
+1630566,1998-12-02,nba_api_commonplayerinfo,John Petty Jr.
+1630567,2001-08-01,nba_api_commonplayerinfo,Scottie Barnes
+1630568,1998-12-27,nba_api_commonplayerinfo,Luka Garza
+1630569,2001-10-02,nba_api_commonplayerinfo,DJ Steward
+1630570,2000-11-09,nba_api_commonplayerinfo,Trendon Watford
+1630571,1999-09-23,nba_api_commonplayerinfo,Matthew Mayer
+1630572,1999-05-23,nba_api_commonplayerinfo,Sandro Mamukelashvili
+1630573,1997-12-08,nba_api_commonplayerinfo,Sam Hauser
+1630574,2002-04-12,nba_api_commonplayerinfo,Ariel Hukporti
+1630575,2000-03-12,nba_api_commonplayerinfo,Scottie Lewis
+1630576,,common_player_info_error:KeyError,
+1630577,2001-06-29,nba_api_commonplayerinfo,Julian Champagnie
+1630578,2002-07-25,nba_api_commonplayerinfo,Alperen Sengun
+1630579,1998-10-20,nba_api_commonplayerinfo,Jericho Sims
+1630580,1999-08-23,nba_api_commonplayerinfo,Joe Wieskamp
+1630581,2002-10-10,nba_api_commonplayerinfo,Josh Giddey
+1630582,1999-05-07,nba_api_commonplayerinfo,Yves Pons
+1630583,2001-01-10,nba_api_commonplayerinfo,Santi Aldama
+1630584,2002-08-07,nba_api_commonplayerinfo,Juhann Begarin
+1630586,2002-03-09,nba_api_commonplayerinfo,Usman Garuba
+1630587,1998-07-28,nba_api_commonplayerinfo,Isaiah Livers
+1630588,2000-11-04,nba_api_commonplayerinfo,Makur Maker
+1630589,1998-12-23,nba_api_commonplayerinfo,Moses Wright
+1630590,2000-11-10,nba_api_commonplayerinfo,Scotty Pippen Jr.
+1630591,2001-06-03,nba_api_commonplayerinfo,Jalen Suggs
+1630592,2000-11-04,nba_api_commonplayerinfo,Jalen Wilson
+1630593,1998-10-25,nba_api_commonplayerinfo,McKinley Wright IV
+1630594,,common_player_info_error:KeyError,
+1630595,2001-09-25,nba_api_commonplayerinfo,Cade Cunningham
+1630596,2001-06-18,nba_api_commonplayerinfo,Evan Mobley
+1630598,1999-01-02,nba_api_commonplayerinfo,Aaron Wiggins
+1630599,2000-11-19,nba_api_commonplayerinfo,Rokas Jokubaitis
+1630600,1999-09-24,nba_api_commonplayerinfo,Isaiah Mobley
+1630604,2000-12-18,nba_api_commonplayerinfo,E.J. Liddell
+1630611,2002-06-22,nba_api_commonplayerinfo,Gui Santos
+1630613,2000-03-24,nba_api_commonplayerinfo,Duane Washington Jr.
+1630620,1999-10-20,nba_api_commonplayerinfo,Darius Days
+1630625,1999-11-07,nba_api_commonplayerinfo,Dalano Banton
+1630629,2002-06-01,nba_api_commonplayerinfo,Gabriele Procida
+1630637,1997-12-23,nba_api_commonplayerinfo,Carlik Jones
+1630638,2000-05-01,nba_api_commonplayerinfo,Balsa Koprivica
+1630639,2000-07-15,nba_api_commonplayerinfo,A.J. Lawson
+1630652,2000-09-16,nba_api_commonplayerinfo,Trevion Williams
+1630656,2001-04-26,nba_api_commonplayerinfo,Hugo Besson
+1630681,1998-08-03,nba_api_commonplayerinfo,Marcus Zegarowski
+1630686,1999-01-02,nba_api_commonplayerinfo,Georgios Kalaitzakis
+1630699,2000-10-12,nba_api_commonplayerinfo,MarJon Beauchamp
+1630700,2003-03-17,nba_api_commonplayerinfo,Dyson Daniels
+1630701,2003-01-16,nba_api_commonplayerinfo,Michael Foster Jr.
+1630702,2002-07-05,nba_api_commonplayerinfo,Jaden Hardy
+1630703,2004-02-03,nba_api_commonplayerinfo,Scoot Henderson
+1630855,2003-01-11,nba_api_commonplayerinfo,Zeng Zeng
+1631093,2002-02-13,nba_api_commonplayerinfo,Jaden Ivey
+1631094,2002-11-12,nba_api_commonplayerinfo,Paolo Banchero
+1631095,2003-05-13,nba_api_commonplayerinfo,Jabari Smith Jr.
+1631096,2002-05-01,nba_api_commonplayerinfo,Chet Holmgren
+1631097,2002-06-19,nba_api_commonplayerinfo,Bennedict Mathurin
+1631098,2002-02-27,nba_api_commonplayerinfo,Johnny Davis
+1631099,2000-08-19,nba_api_commonplayerinfo,Keegan Murray
+1631100,2003-08-25,nba_api_commonplayerinfo,AJ Griffin
+1631101,2003-05-30,nba_api_commonplayerinfo,Shaedon Sharpe
+1631102,2001-11-15,nba_api_commonplayerinfo,TyTy Washington Jr.
+1631103,2003-05-12,nba_api_commonplayerinfo,Malaki Branham
+1631104,2003-03-16,nba_api_commonplayerinfo,Blake Wesley
+1631105,2003-11-18,nba_api_commonplayerinfo,Jalen Duren
+1631106,2001-05-10,nba_api_commonplayerinfo,Tari Eason
+1631107,2003-06-09,nba_api_commonplayerinfo,Nikola Jović
+1631108,2003-02-10,nba_api_commonplayerinfo,Max Christie
+1631109,2001-12-16,nba_api_commonplayerinfo,Mark Williams
+1631110,2003-05-20,nba_api_commonplayerinfo,Jeremy Sochan
+1631111,2001-09-18,nba_api_commonplayerinfo,Wendell Moore Jr.
+1631112,2003-05-11,nba_api_commonplayerinfo,Kendall Brown
+1631113,2002-09-16,nba_api_commonplayerinfo,Kennedy Chandler
+1631114,2001-04-14,nba_api_commonplayerinfo,Jalen Williams
+1631115,2000-07-10,nba_api_commonplayerinfo,Orlando Robinson
+1631116,2002-11-18,nba_api_commonplayerinfo,Patrick Baldwin Jr.
+1631117,2001-07-26,nba_api_commonplayerinfo,Walker Kessler
+1631119,2002-06-29,nba_api_commonplayerinfo,Jaylin Williams
+1631120,2002-10-03,nba_api_commonplayerinfo,JD Davison
+1631121,2002-11-08,nba_api_commonplayerinfo,Bryce McGowens
+1631124,2002-04-18,nba_api_commonplayerinfo,Julian Strawther
+1631125,,common_player_info_error:KeyError,
+1631127,2002-11-27,nba_api_commonplayerinfo,Harrison Ingram
+1631128,2001-04-17,nba_api_commonplayerinfo,Christian Braun
+1631129,1999-12-03,nba_api_commonplayerinfo,Iverson Molinar
+1631130,2001-01-17,nba_api_commonplayerinfo,Ismael Kamagate
+1631131,1999-11-27,nba_api_commonplayerinfo,Oscar Tshiebwe
+1631132,2000-06-20,nba_api_commonplayerinfo,Christian Koloko
+1631133,2002-07-30,nba_api_commonplayerinfo,Jabari Walker
+1631157,2002-07-03,nba_api_commonplayerinfo,Ryan Rollins
+1631159,2003-11-26,nba_api_commonplayerinfo,Leonard Miller
+1631161,2003-11-15,nba_api_commonplayerinfo,Yannick Nzosa
+1631164,,common_player_info_error:KeyError,
+1631165,2000-01-08,nba_api_commonplayerinfo,Keon Ellis
+1631166,2000-09-09,nba_api_commonplayerinfo,Drew Timme
+1631168,,common_player_info_error:KeyError,
+1631169,2002-11-25,nba_api_commonplayerinfo,Josh Minott
+1631170,2001-02-18,nba_api_commonplayerinfo,Jaime Jaquez Jr.
+1631171,2002-04-12,nba_api_commonplayerinfo,Justin Lewis
+1631172,2003-05-21,nba_api_commonplayerinfo,Ousmane Dieng
+1631173,2002-12-31,nba_api_commonplayerinfo,Terquavion Smith
+1631197,1999-08-27,nba_api_commonplayerinfo,Jared Rhoden
+1631198,2001-12-15,nba_api_commonplayerinfo,Aminu Mohammed
+1631199,2000-04-12,nba_api_commonplayerinfo,Ron Harper Jr.
+1631200,2000-08-19,nba_api_commonplayerinfo,Kris Murray
+1631204,2000-09-21,nba_api_commonplayerinfo,Marcus Sasser
+1631207,2002-07-12,nba_api_commonplayerinfo,Dalen Terry
+1631209,2001-01-28,nba_api_commonplayerinfo,Isaiah Wong
+1631211,2003-08-26,nba_api_commonplayerinfo,Trevor Keels
+1631212,2002-09-11,nba_api_commonplayerinfo,Peyton Watson
+1631213,1999-03-07,nba_api_commonplayerinfo,Tyrese Martin
+1631214,1999-06-19,nba_api_commonplayerinfo,Alondes Williams
+1631215,2002-01-15,nba_api_commonplayerinfo,Khalifa Diop
+1631216,2003-01-09,nba_api_commonplayerinfo,Caleb Houstan
+1631217,2002-01-21,nba_api_commonplayerinfo,Moussa Diabaté
+1631218,2000-02-22,nba_api_commonplayerinfo,Trayce Jackson-Davis
+1631219,2002-12-04,nba_api_commonplayerinfo,John Butler Jr.
+1631220,2000-05-26,nba_api_commonplayerinfo,Dereon Seabron
+1631221,1999-06-25,nba_api_commonplayerinfo,Collin Gillespie
+1631222,2001-11-03,nba_api_commonplayerinfo,Jake LaRavia
+1631223,2001-03-27,nba_api_commonplayerinfo,David Roddy
+1631230,2003-05-26,nba_api_commonplayerinfo,Dominick Barlow
+1631243,2002-11-09,nba_api_commonplayerinfo,Mouhamed Gueye
+1631246,2000-08-30,nba_api_commonplayerinfo,Vince Williams Jr.
+1631247,2001-09-03,nba_api_commonplayerinfo,Luke Travers
+1631248,2000-09-26,nba_api_commonplayerinfo,Baylor Scheierman
+1631254,2002-08-14,nba_api_commonplayerinfo,Kenneth Lofton Jr.
+1631255,2001-03-30,nba_api_commonplayerinfo,Karlo Matković
+1631256,,common_player_info_error:KeyError,
+1631258,1998-04-25,nba_api_commonplayerinfo,Bryson Williams
+1631321,2004-04-02,nba_api_commonplayerinfo,Sidy Cissoko
+1631340,2002-06-11,nba_api_commonplayerinfo,Mojave King
+1641705,2004-01-04,nba_api_commonplayerinfo,Victor Wembanyama
+1641706,2002-11-22,nba_api_commonplayerinfo,Brandon Miller
+1641707,2003-11-22,nba_api_commonplayerinfo,Taylor Hendricks
+1641708,2003-01-30,nba_api_commonplayerinfo,Amen Thompson
+1641709,2003-01-30,nba_api_commonplayerinfo,Ausar Thompson
+1641710,2004-01-20,nba_api_commonplayerinfo,Anthony Black
+1641711,2003-11-20,nba_api_commonplayerinfo,Gradey Dick
+1641712,2004-05-31,nba_api_commonplayerinfo,Rayan Rupert
+1641713,2004-12-17,nba_api_commonplayerinfo,GG Jackson
+1641715,2004-07-08,nba_api_commonplayerinfo,Cam Whitmore
+1641716,2003-09-04,nba_api_commonplayerinfo,Jarace Walker
+1641717,2003-11-07,nba_api_commonplayerinfo,Cason Wallace
+1641718,2003-11-08,nba_api_commonplayerinfo,Keyonte George
+1641720,2003-06-19,nba_api_commonplayerinfo,Jalen Hood-Schifino
+1641721,2002-07-27,nba_api_commonplayerinfo,Maxwell Lewis
+1641722,2002-04-29,nba_api_commonplayerinfo,Jordan Hawkins
+1641723,2003-09-21,nba_api_commonplayerinfo,Kobe Bufkin
+1641724,2003-09-14,nba_api_commonplayerinfo,Jett Howard
+1641725,2003-05-02,nba_api_commonplayerinfo,Trey Alexander
+1641726,2004-02-12,nba_api_commonplayerinfo,Dereck Lively II
+1641727,2004-08-01,nba_api_commonplayerinfo,Dariq Whitehead
+1641729,2003-10-30,nba_api_commonplayerinfo,Brice Sensabaugh
+1641730,2004-07-14,nba_api_commonplayerinfo,Noah Clowney
+1641731,2004-07-26,nba_api_commonplayerinfo,Bilal Coulibaly
+1641732,2002-05-28,nba_api_commonplayerinfo,Colby Jones
+1641733,2004-04-18,nba_api_commonplayerinfo,Nick Smith Jr.
+1641734,2004-01-28,nba_api_commonplayerinfo,Emoni Bates
+1641735,2004-02-17,nba_api_commonplayerinfo,Amari Bailey
+1641736,2001-10-08,nba_api_commonplayerinfo,Reece Beekman
+1641737,2003-03-28,nba_api_commonplayerinfo,Adem Bona
+1641738,2000-01-01,nba_api_commonplayerinfo,Kobe Brown
+1641739,2000-05-08,nba_api_commonplayerinfo,Toumani Camara
+1641740,2001-10-13,nba_api_commonplayerinfo,Jaylen Clark
+1641741,2001-08-03,nba_api_commonplayerinfo,Ricky Council IV
+1641743,,common_player_info_error:KeyError,
+1641744,2002-05-14,nba_api_commonplayerinfo,Zach Edey
+1641745,1999-12-01,nba_api_commonplayerinfo,Adam Flagler
+1641746,2001-12-10,nba_api_commonplayerinfo,Coleman Hawkins
+1641747,2002-08-15,nba_api_commonplayerinfo,DaRon Holmes II
+1641748,2001-11-13,nba_api_commonplayerinfo,Andre Jackson Jr.
+1641749,2000-05-24,nba_api_commonplayerinfo,Keyontae Johnson
+1641750,2002-01-17,nba_api_commonplayerinfo,Ryan Kalkbrenner
+1641751,2002-03-01,nba_api_commonplayerinfo,Arthur Kaluma
+1641752,2003-03-06,nba_api_commonplayerinfo,Bobi Klintman
+1641753,2003-10-15,nba_api_commonplayerinfo,Chris Livingston
+1641754,2000-04-02,nba_api_commonplayerinfo,Seth Lundy
+1641755,2001-03-15,nba_api_commonplayerinfo,Kevin McCullar Jr.
+1641756,2002-08-24,nba_api_commonplayerinfo,Mike Miles Jr.
+1641757,2000-01-23,nba_api_commonplayerinfo,Jordan Miller
+1641758,2003-07-10,nba_api_commonplayerinfo,Judah Mintz
+1641759,,common_player_info_error:KeyError,
+1641760,2000-09-18,nba_api_commonplayerinfo,Omari Moore
+1641761,2002-03-18,nba_api_commonplayerinfo,Grant Nelson
+1641762,2004-08-14,nba_api_commonplayerinfo,James Nnaji
+1641763,2003-11-05,nba_api_commonplayerinfo,Julian Phillips
+1641764,2003-02-25,nba_api_commonplayerinfo,Brandin Podziemski
+1641765,2002-07-03,nba_api_commonplayerinfo,Olivier-Maxence Prosper
+1641766,2002-02-12,nba_api_commonplayerinfo,Adama Sanogo
+1641767,2001-07-16,nba_api_commonplayerinfo,Ben Sheppard
+1641771,1999-10-22,nba_api_commonplayerinfo,Jalen Slawson
+1641772,2000-12-19,nba_api_commonplayerinfo,Nae'Qwan Tomlin
+1641773,2002-03-22,nba_api_commonplayerinfo,Azuolas Tubelis
+1641774,2003-03-11,nba_api_commonplayerinfo,Tristan Vukcevic
+1641775,2004-03-03,nba_api_commonplayerinfo,Jordan Walsh
+1641779,2001-05-14,nba_api_commonplayerinfo,Jalen Bridges
+1641780,2002-07-19,nba_api_commonplayerinfo,Johni Broome
+1641783,2001-05-15,nba_api_commonplayerinfo,Tristan da Silva
+1641790,2002-02-21,nba_api_commonplayerinfo,PJ Hall
+1641794,2001-10-29,nba_api_commonplayerinfo,Dillon Jones
+1641796,2001-02-23,nba_api_commonplayerinfo,Pelle Larsson
+1641803,2001-04-26,nba_api_commonplayerinfo,Tristen Newton
+1641810,2000-11-20,nba_api_commonplayerinfo,Antonio Reeves
+1641813,2002-02-19,nba_api_commonplayerinfo,Mark Sears
+1641816,2000-06-13,nba_api_commonplayerinfo,Hunter Tyson
+1641817,2000-10-06,nba_api_commonplayerinfo,Anton Watson
+1641824,2004-10-13,nba_api_commonplayerinfo,Matas Buzelis
+1641825,2006-03-10,nba_api_commonplayerinfo,Dink Pate
+1641842,2005-07-07,nba_api_commonplayerinfo,Ronald Holland II
+1641844,2001-01-28,nba_api_commonplayerinfo,Tarik Biberovic
+1641890,2004-11-02,nba_api_commonplayerinfo,Tyler Smith
+1641891,2005-06-07,nba_api_commonplayerinfo,Izan Almansa
+1642258,2005-04-08,nba_api_commonplayerinfo,Zaccharie Risacher
+1642259,2005-04-26,nba_api_commonplayerinfo,Alex Sarr
+1642260,2005-08-10,nba_api_commonplayerinfo,Nikola Topić
+1642261,2001-04-19,nba_api_commonplayerinfo,Dalton Knecht
+1642262,2004-11-20,nba_api_commonplayerinfo,Cody Williams
+1642263,2004-06-24,nba_api_commonplayerinfo,Reed Sheppard
+1642264,2004-11-01,nba_api_commonplayerinfo,Stephon Castle
+1642265,2005-01-04,nba_api_commonplayerinfo,Rob Dillingham
+1642266,2004-09-04,nba_api_commonplayerinfo,Ja'Kobe Walter
+1642267,2005-07-21,nba_api_commonplayerinfo,Bub Carrington
+1642268,2004-10-08,nba_api_commonplayerinfo,Isaiah Collier
+1642269,2002-03-18,nba_api_commonplayerinfo,Devin Carter
+1642270,2004-02-23,nba_api_commonplayerinfo,Donovan Clingan
+1642271,2003-11-07,nba_api_commonplayerinfo,Kyle Filipowski
+1642272,2004-02-20,nba_api_commonplayerinfo,Jared McCain
+1642273,2003-12-12,nba_api_commonplayerinfo,Kyshawn George
+1642274,2004-05-14,nba_api_commonplayerinfo,Yves Missi
+1642275,2005-08-10,nba_api_commonplayerinfo,Tidjane Salaün
+1642276,2004-04-20,nba_api_commonplayerinfo,Kel'el Ware
+1642277,2004-12-08,nba_api_commonplayerinfo,Johnny Furphy
+1642278,2001-03-27,nba_api_commonplayerinfo,Tyler Kolek
+1642279,2005-12-30,nba_api_commonplayerinfo,Ulrich Chomche
+1642280,2005-03-08,nba_api_commonplayerinfo,Trentyn Flowers
+1642281,2002-12-02,nba_api_commonplayerinfo,Jaylon Tyson
+1642282,2003-03-26,nba_api_commonplayerinfo,Hunter Sallis
+1642283,2002-12-03,nba_api_commonplayerinfo,Jaxson Robinson
+1642284,,common_player_info_error:KeyError,
+1642285,2000-04-06,nba_api_commonplayerinfo,Cam Spencer
+1642345,2002-07-14,nba_api_commonplayerinfo,Oso Ighodaro
+1642346,2003-01-07,nba_api_commonplayerinfo,Ryan Dunn
+1642347,2002-07-24,nba_api_commonplayerinfo,Jamal Shead
+1642348,2003-12-16,nba_api_commonplayerinfo,Justin Edwards
+1642349,2002-06-25,nba_api_commonplayerinfo,Ajay Mitchell
+1642350,,common_player_info_error:KeyError,
+1642351,2004-06-24,nba_api_commonplayerinfo,Melvin Ajinca
+1642352,2001-06-23,nba_api_commonplayerinfo,Keshad Johnson
+1642353,2005-07-24,nba_api_commonplayerinfo,Cam Christie
+1642354,2002-08-08,nba_api_commonplayerinfo,KJ Simpson
+1642355,2004-10-06,nba_api_commonplayerinfo,Bronny James
+1642356,,common_player_info_error:KeyError,
+1642357,2001-11-24,nba_api_commonplayerinfo,David Jones Garcia
+1642358,2004-12-01,nba_api_commonplayerinfo,AJ Johnson
+1642359,2005-07-27,nba_api_commonplayerinfo,Pacôme Dadiet
+1642360,,common_player_info_error:KeyError,
+1642361,2004-06-04,nba_api_commonplayerinfo,Juan Nunez
+1642362,2002-07-12,nba_api_commonplayerinfo,Payton Sandfort
+1642363,2002-02-09,nba_api_commonplayerinfo,Nique Clifford
+1642364,2001-07-06,nba_api_commonplayerinfo,Jamir Watkins
+1642365,2004-02-23,nba_api_commonplayerinfo,Nikola Djurisic
+1642366,2000-03-21,nba_api_commonplayerinfo,Quinten Post
+1642367,2001-10-29,nba_api_commonplayerinfo,Jonathan Mogbo
+1642368,2001-10-19,nba_api_commonplayerinfo,N'Faly Dante
+1642369,,common_player_info_error:KeyError,
+1642377,2003-08-26,nba_api_commonplayerinfo,Jaylen Wells
+1642383,2003-03-06,nba_api_commonplayerinfo,Walter Clayton Jr.
+1642391,,common_player_info_error:KeyError,
+1642394,,common_player_info_error:KeyError,
+1642399,2000-03-18,nba_api_commonplayerinfo,Jesse Edwards
+1642402,2000-07-29,nba_api_commonplayerinfo,Enrique Freeman
+1642403,2000-07-11,nba_api_commonplayerinfo,Isaac Jones
+1642404,2001-12-19,nba_api_commonplayerinfo,Chaz Lanier
+1642407,2000-12-12,nba_api_commonplayerinfo,Boogie Ellis
+1642843,2006-12-21,nba_api_commonplayerinfo,Cooper Flagg
+1642844,2006-03-02,nba_api_commonplayerinfo,Dylan Harper
+1642845,2005-07-30,nba_api_commonplayerinfo,VJ Edgecombe
+1642846,2006-08-13,nba_api_commonplayerinfo,Ace Bailey
+1642847,2006-10-14,nba_api_commonplayerinfo,Jeremiah Fears
+1642848,2006-03-07,nba_api_commonplayerinfo,Tre Johnson
+1642849,2006-05-28,nba_api_commonplayerinfo,Nolan Traore
+1642850,2005-12-25,nba_api_commonplayerinfo,Thomas Sorber
+1642851,2005-08-03,nba_api_commonplayerinfo,Kon Knueppel
+1642852,2004-12-27,nba_api_commonplayerinfo,Derik Queen
+1642853,2004-07-10,nba_api_commonplayerinfo,Rasheer Fleming
+1642854,2005-10-05,nba_api_commonplayerinfo,Asa Newell
+1642855,2006-12-18,nba_api_commonplayerinfo,Noa Essengue
+1642856,2006-03-03,nba_api_commonplayerinfo,Egor Dëmin
+1642857,2006-05-29,nba_api_commonplayerinfo,Kasparas Jakučionis
+1642858,,common_player_info_error:KeyError,
+1642859,2005-10-16,nba_api_commonplayerinfo,Jase Richardson
+1642860,2006-02-10,nba_api_commonplayerinfo,Will Riley
+1642861,,common_player_info_error:KeyError,
+1642862,2005-10-10,nba_api_commonplayerinfo,Liam McNeeley
+1642863,2006-09-14,nba_api_commonplayerinfo,Khaman Maluach
+1642864,2006-02-05,nba_api_commonplayerinfo,Hugo González
+1642865,,common_player_info_error:KeyError,
+1642866,2006-11-11,nba_api_commonplayerinfo,Joan Beringer
+1642867,2005-06-10,nba_api_commonplayerinfo,Collin Murray-Boyles
+1642868,2005-11-26,nba_api_commonplayerinfo,Carter Bryant
+1642869,2005-01-07,nba_api_commonplayerinfo,Noah Penda
+1642870,,common_player_info_error:KeyError,
+1642873,2002-01-28,nba_api_commonplayerinfo,Amari Williams
+1642874,2004-05-05,nba_api_commonplayerinfo,Danny Wolf
+1642875,2003-04-07,nba_api_commonplayerinfo,Maxime Raynaud
+1642876,2004-05-08,nba_api_commonplayerinfo,Adou Thiero
+1642877,2001-07-16,nba_api_commonplayerinfo,Micah Peavy
+1642878,2004-04-01,nba_api_commonplayerinfo,Tyrese Proctor
+1642879,2006-04-14,nba_api_commonplayerinfo,Ben Saraf
+1642880,2002-02-25,nba_api_commonplayerinfo,Kam Jones
+1642881,2005-07-12,nba_api_commonplayerinfo,Bogoljub Marković
+1642883,2002-12-04,nba_api_commonplayerinfo,Sion James
+1642884,2001-05-12,nba_api_commonplayerinfo,Vladislav Goldin
+1642885,2005-04-29,nba_api_commonplayerinfo,Mohamed Diawara
+1642886,2002-11-06,nba_api_commonplayerinfo,Koby Brea
+1642887,,common_player_info_error:KeyError,
+1642889,,common_player_info_error:KeyError,
+1642891,,common_player_info_error:KeyError,
+1642892,,common_player_info_error:KeyError,
+1642893,2004-05-05,nba_api_commonplayerinfo,Alex Toohey
+1642905,2005-06-26,nba_api_commonplayerinfo,Yang Hansen
+1642907,2003-09-11,nba_api_commonplayerinfo,Cedric Coward
+1642909,,common_player_info_error:KeyError,
+1642910,2001-04-23,nba_api_commonplayerinfo,John Tonje
+1642911,2006-07-11,nba_api_commonplayerinfo,Rocco Zikarsky
+1642912,,common_player_info_error:KeyError,
+1642913,,common_player_info_error:KeyError,
+1642914,2002-12-19,nba_api_commonplayerinfo,Javon Small
+1642915,2001-01-26,nba_api_commonplayerinfo,Eric Dixon
+1642916,,common_player_info_error:KeyError,
+1642917,2002-06-25,nba_api_commonplayerinfo,Max Shulga
+1642918,2001-12-26,nba_api_commonplayerinfo,Alijah Martin
+1642919,,common_player_info_error:KeyError,
+1642920,2002-05-30,nba_api_commonplayerinfo,Kobe Sanders
+1642921,,common_player_info_error:KeyError,
+1642922,2003-04-10,nba_api_commonplayerinfo,Jalon Moore
+1642923,,common_player_info_error:KeyError,
+1642924,2001-07-05,nba_api_commonplayerinfo,Brice Williams
+1642926,2003-02-21,nba_api_commonplayerinfo,Tamar Bates
+1642929,,common_player_info_error:KeyError,
+1642942,2002-11-10,nba_api_commonplayerinfo,Jahmai Mashack
+1642944,,common_player_info_error:KeyError,
+1642948,2003-03-10,nba_api_commonplayerinfo,Ryan Nembhard
+1642949,2003-03-14,nba_api_commonplayerinfo,Yanic Konan Niederhäuser
+1642950,2003-12-30,nba_api_commonplayerinfo,Lachlan Olbrich
+1642954,2002-12-24,nba_api_commonplayerinfo,Will Richard
+1642960,,common_player_info_error:KeyError,
+1642961,2002-11-27,nba_api_commonplayerinfo,RJ Luis Jr.
+1642962,2005-09-08,nba_api_commonplayerinfo,Drake Powell
+1642963,,common_player_info_error:KeyError,
+1642964,2002-03-02,nba_api_commonplayerinfo,Brooks Barnhizer
+1643007,2002-02-27,nba_api_commonplayerinfo,Taelon Peter
+1643008,2004-05-14,nba_api_commonplayerinfo,Saliou Niang
+1643407,,common_player_info_error:KeyError,
+1643408,,common_player_info_error:KeyError,
+1643409,,common_player_info_error:KeyError,
+1643410,,common_player_info_error:KeyError,
+1643411,,common_player_info_error:KeyError,
+1643412,,common_player_info_error:KeyError,
+1643413,,common_player_info_error:KeyError,
+1643414,,common_player_info_error:KeyError,
+1643415,,common_player_info_error:KeyError,
+1643416,,common_player_info_error:KeyError,
+1643417,,common_player_info_error:KeyError,
+1643418,,common_player_info_error:KeyError,
+1643419,,common_player_info_error:KeyError,
+1643509,,common_player_info_error:KeyError,
+1643510,,common_player_info_error:KeyError,
+1643512,,common_player_info_error:KeyError,
+1643515,,common_player_info_error:KeyError,
+1643516,,common_player_info_error:KeyError,
+1643517,,common_player_info_error:KeyError,
+1643519,,common_player_info_error:KeyError,
+1643520,,common_player_info_error:KeyError,
+1643521,,common_player_info_error:KeyError,
+1643530,,common_player_info_error:KeyError,
+1643533,,common_player_info_error:KeyError,
+1643535,,common_player_info_error:KeyError,
+1643536,,common_player_info_error:KeyError,
+1643537,,common_player_info_error:KeyError,
+1643538,,common_player_info_error:KeyError,
+1643539,,common_player_info_error:KeyError,
+1643540,,common_player_info_error:KeyError,
+1643541,,common_player_info_error:KeyError,
+1643542,,common_player_info_error:KeyError,
+1643543,,common_player_info_error:KeyError,
+1643544,,common_player_info_error:KeyError,
+1643545,,common_player_info_error:KeyError,
+1643547,,common_player_info_error:KeyError,
+1643548,,common_player_info_error:KeyError,
+1643551,,common_player_info_error:KeyError,
+1643552,,common_player_info_error:KeyError,
+1643553,,common_player_info_error:KeyError,
+1643558,,common_player_info_error:KeyError,
+1643563,,common_player_info_error:KeyError,
+1643567,,common_player_info_error:KeyError,
+1643568,,common_player_info_error:KeyError,
+1643570,,common_player_info_error:KeyError,
+1643572,,common_player_info_error:KeyError,
+1643573,,common_player_info_error:KeyError,
+1643576,,common_player_info_error:KeyError,
+1643578,,common_player_info_error:KeyError,
+1643583,,common_player_info_error:KeyError,
+1643586,,common_player_info_error:KeyError,
+1643587,,common_player_info_error:KeyError,
+1643588,,common_player_info_error:KeyError,
+1643589,,common_player_info_error:KeyError,
+1643590,,common_player_info_error:KeyError,
+1643591,,common_player_info_error:KeyError,
+1643592,,common_player_info_error:KeyError,
+1643593,,common_player_info_error:KeyError,
+1643612,,common_player_info_error:KeyError,
+1643613,,common_player_info_error:KeyError,
+1643614,,common_player_info_error:KeyError,
+1643618,,common_player_info_error:KeyError,
+1643624,,common_player_info_error:KeyError,
+1643626,,common_player_info_error:KeyError,
+1643635,,common_player_info_error:KeyError,
+1962937123,,common_player_info_error:KeyError,

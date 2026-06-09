@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
+rapidfuzz
+tabulate
+nba_api
+qrcode[pil]

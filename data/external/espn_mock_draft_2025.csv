@@ -1,0 +1,60 @@
+mock_pick,mock_team,name,position,organization,espn_exp,mock_group,source
+1,Dallas Mavericks,Cooper Flagg,SF/PF,Duke,,top_5,ESPN
+2,San Antonio Spurs,Dylan Harper,PG/SG,Rutgers,,top_5,ESPN
+3,Philadelphia 76ers,VJ Edgecombe,SG,Baylor,,top_5,ESPN
+4,Charlotte Hornets,Kon Knueppel,SG/SF,Duke,,top_5,ESPN
+5,Utah Jazz,Jeremiah Fears,PG,Oklahoma,,top_5,ESPN
+6,Washington Wizards,Ace Bailey,SG/SF,Rutgers,,picks_6_14,ESPN
+7,New Orleans Pelicans,Khaman Maluach,C,Duke,,picks_6_14,ESPN
+8,Brooklyn Nets,Tre Johnson,SG,Texas,,picks_6_14,ESPN
+9,Toronto Raptors,Noa Essengue,PF,Ratiopharm Ulm,,picks_6_14,ESPN
+10,Phoenix Suns (via Houston),Carter Bryant,SF/PF,Arizona,,picks_6_14,ESPN
+11,Portland Trail Blazers,Kasparas Jakucionis,PG,Illinois,,picks_6_14,ESPN
+12,Chicago Bulls,Collin Murray-Boyles,PF/C,South Carolina,,picks_6_14,ESPN
+13,Atlanta Hawks (via Sacramento),Egor Demin,PG/SG,BYU,,picks_6_14,ESPN
+14,San Antonio Spurs (via Atlanta),Joan Beringer,C,Cedevita Olimpija,,picks_6_14,ESPN
+15,Oklahoma City Thunder (via Miami),Derik Queen,C,Maryland,,picks_15_30,ESPN
+16,Memphis Grizzlies (via Orlando),Cedric Coward,SF,Washington State/Duke,,picks_15_30,ESPN
+17,Minnesota Timberwolves (via Detroit),Thomas Sorber,C,Georgetown,,picks_15_30,ESPN
+18,Washington Wizards (via Memphis),Danny Wolf,PF,Michigan,,picks_15_30,ESPN
+19,Brooklyn Nets (via Milwaukee),Asa Newell,PF/C,Georgia,,picks_15_30,ESPN
+20,Miami Heat (via Golden State),Liam McNeeley,SG/SF,UConn,,picks_15_30,ESPN
+21,Utah Jazz (via Minnesota),Hugo Gonzalez,SG/SF,Real Madrid,,picks_15_30,ESPN
+22,Brooklyn Nets (via Atlanta),Nolan Traore,PG,Saint-Quentin,,picks_15_30,ESPN
+23,New Orleans Pelicans (via Indiana),Walter Clayton Jr.,PG,Florida,,picks_15_30,ESPN
+24,Oklahoma City Thunder (via LA Clippers),Will Riley,SG/SF,Illinois,,picks_15_30,ESPN
+25,Orlando Magic (via Denver),Jase Richardson,PG/SG,Michigan State,,picks_15_30,ESPN
+26,Brooklyn Nets (via New York),Nique Clifford,SG,Colorado State,,picks_15_30,ESPN
+27,Brooklyn Nets (via Houston),Rasheer Fleming,PF,Saint Joseph's,,picks_15_30,ESPN
+28,Boston Celtics,Maxime Raynaud,PF/C,Stanford,,picks_15_30,ESPN
+29,Phoenix Suns (via Cleveland),Ryan Kalkbrenner,C,Creighton,,picks_15_30,ESPN
+30,LA Clippers (via Oklahoma City),Noah Penda,SF/PF,Le Mans,,picks_15_30,ESPN
+31,Minnesota Timberwolves (via Utah),Ben Saraf,PG/SG,Ratiopharm Ulm (Germany),,second_round,ESPN
+32,Boston Celtics (via Washington),Drake Powell,SG/SF,North Carolina,,second_round,ESPN
+33,Charlotte Hornets,Yanic Konan Niederhauser,C,Penn State,junior,second_round,ESPN
+34,Charlotte Hornets (via New Orleans),Tyrese Proctor,PG,Duke,junior,second_round,ESPN
+35,Philadelphia 76ers,Adou Thiero,PF,Arkansas,,second_round,ESPN
+36,Brooklyn Nets,Yang Hansen,C,Qingdao (China),,second_round,ESPN
+37,Detroit Pistons (via Toronto),Chaz Lanier,SG,Tennessee,super senior,second_round,ESPN
+38,Indiana Pacers (from San Antonio),Jamir Watkins,SG/SF,Florida State,senior,second_round,ESPN
+39,Toronto Raptors (via Portland),John Tonje,SF,Wisconsin,super senior,second_round,ESPN
+40,New Orleans Pelicans (via Washington),Bogoljub Markovic,PF/C,Mega Superbet (Adriatic),,second_round,ESPN
+41,Golden State Warriors (via Miami),Rocco Zikarsky,C,Brisbane (Australia),,second_round,ESPN
+42,Sacramento Kings (via Chicago),Koby Brea,SG/SF,Kentucky,super senior,second_round,ESPN
+43,Utah Jazz (via Dallas),Sion James,SF,Duke,super senior,second_round,ESPN
+44,Oklahoma City Thunder (via Atlanta),Johni Broome,C,Auburn,super senior,second_round,ESPN
+45,Chicago Bulls (via Sacramento),Alex Toohey,SF/PF,Sydney (Australia),,second_round,ESPN
+46,Orlando Magic,Kam Jones,PG/SG,Marquette,senior,second_round,ESPN
+47,Milwaukee Bucks (via Detroit),Javon Small,PG,West Virginia,senior,second_round,ESPN
+48,Memphis Grizzlies (via Golden State),Micah Peavy,SG/SF,Georgetown,senior,second_round,ESPN
+49,Cleveland Cavaliers (via Milwaukee),Vladislav Goldin,C,Michigan,super senior,second_round,ESPN
+50,New York Knicks (via Memphis),Lachlan Olbrich,PF/C,Illawarra,,second_round,ESPN
+51,LA Clippers (via Minnesota),Eric Dixon,PF,Villanova,super senior,second_round,ESPN
+52,Phoenix Suns (via Denver),Alijah Martin,SG,Florida,senior,second_round,ESPN
+53,Utah Jazz (via LA Clippers),Amari Williams,C,Kentucky,senior,second_round,ESPN
+54,Indiana Pacers,Dink Pate,SG/SF,Mexico City (G League),,second_round,ESPN
+55,Los Angeles Lakers,Viktor Lakhin,C,Clemson,super senior,second_round,ESPN
+56,Memphis Grizzlies (via Houston),Hunter Sallis,SG,Wake Forest,senior,second_round,ESPN
+57,Orlando Magic (via Boston),Kobe Sanders,SG/SF,Nevada,senior,second_round,ESPN
+58,Cleveland Cavaliers,Saliou Niang,SG/SF,Trento (Italy),,second_round,ESPN
+59,Houston Rockets (via Oklahoma City),Ryan Nembhard,PG,Gonzaga,senior,second_round,ESPN
